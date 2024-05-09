@@ -3,7 +3,11 @@
 ---
 ## Introduction 
 
-_Mythras Imperative_ is an Open, ORC Licensed, version of the _Mythras_ ruleset. This document offers a comprehensive, but not exhaustive, set of rules, including character creation, skills, rules for certain typical situations, combat, and magic – more than enough to get both players and Games Masters started, and form a solid basis for further development. _Mythras Imperative_ is compatible with the Mythras core rules, and other ORC licensed percentile gaming systems. Its companion volume, _Classic Fantasy Imperative,_ is also completely compatible and released under ORC, meaning that the two Imperatives can be easily combined.
+_Mythras_  is a tabletop role-playing game system developed by _The Design Mechanism_. It's a toolkit designed to empower Game Masters to create and run the world they've always wanted as well as offer a rich and immersive experience for players.
+
+For those new to the game, _Mythras_ is a percentile system. In _Mythras_ your characters are defined by their culture, career, community, background, comrades, skills, magic and cults. Progression is through skill advancement – not levels or similarly abstract concepts. As your characters adventure and quest, their capabilities improve and their relationships deepen and strengthen. Players and Games Masters have complete flexibility over what can be achieved, and the way characters develop is entirely dependent on choices players make, depending on their characters’ aspirations and motivations.
+
+Games Masters receive a huge amount of support through the Mythras rules. All the concepts and game mechanics are explained clearly with options and considerations explored and presented for ease of use. You need only this rulebook for many years of exciting and imaginative play.
 
 ---
 ## ORC Licensing
