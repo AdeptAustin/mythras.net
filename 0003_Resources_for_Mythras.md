@@ -1,6 +1,9 @@
 # Recources for Mythras
 
-Skills are divided into two categories: Standard and Professional. All characters have the same set of Standard Skills. Professional Skills differ between individual characters and reflect expertise developed within a career and, to a certain extent, their culture. Despite these distinctions, Standard and Professional Skills work in the same way.
+## Game Masters
+
+## Players
+<!-- Skills are divided into two categories: Standard and Professional. All characters have the same set of Standard Skills. Professional Skills differ between individual characters and reflect expertise developed within a career and, to a certain extent, their culture. Despite these distinctions, Standard and Professional Skills work in the same way.
 
 ---
 ## How Skills Work
@@ -393,4 +396,4 @@ It can be very useful for both Games Masters and Players to have a common frame 
 | 51-70% | 1d20+50 | Proficient | Seasoned | Has reached an employable level of competence |
 | 71-90% | 1d20+70 | Expert | Veteran | Recognized as a professional or subject matter expert in the field |
 | 91-110% | 1d20+90 | Master | Elite | Considered one of the best in the business |
-| \>110% | 1d20+110 | Exemplar | Heroic | Renowned far and wide for their consummate skill |
+| \>110% | 1d20+110 | Exemplar | Heroic | Renowned far and wide for their consummate skill | -->

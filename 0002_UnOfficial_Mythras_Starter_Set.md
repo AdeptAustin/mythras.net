@@ -1,6 +1,10 @@
 # Unofficial Mythras Starter Set
 
-Every player in _Mythras Imperative_ controls a character. A character is the player's alter-ego, and is usually very different, physically, and mentally, to the player. Characters can be from a variety of races, according to the setting for the game; a historical setting would feature just humans, whereas a fantasy setting could involve dwarves, elves and even lizardmen. The basic character is defined by a series of different elements that describe the character's capabilities. These elements are:
+## Rules
+
+## Adventures
+
+<!-- Every player in _Mythras Imperative_ controls a character. A character is the player's alter-ego, and is usually very different, physically, and mentally, to the player. Characters can be from a variety of races, according to the setting for the game; a historical setting would feature just humans, whereas a fantasy setting could involve dwarves, elves and even lizardmen. The basic character is defined by a series of different elements that describe the character's capabilities. These elements are:
 
 - **Characteristics:** such as Strength or Charisma
 - **Attributes:** things like Height or Movement
@@ -517,4 +521,4 @@ Now that the character is almost finished, he or she needs some gear. This can i
 - A personal heirloom, keepsake, or some trinket of little relative value.
 - Any trade tools or transportable equipment suitable to the character's profession, if appropriate.
 - Any personal weapon for the character's Combat Style.
-- Other items as appropriate for the setting, and subject to the GM's approval.
+- Other items as appropriate for the setting, and subject to the GM's approval. -->

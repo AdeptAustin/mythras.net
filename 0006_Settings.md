@@ -1,6 +1,32 @@
 # Settings
 
-Vehicles in _Mythras Imperative_ are treated in a semi-abstract fashion. Essentially, they are background tools, used to get characters from A to B, with little need for detailed description or statistics. On occasion though, Games Masters will require details for vehicles when it is necessary to represent them in chases or combat situations.
+## Meeros
+
+## Mythic Earth
+
+### Britain
+
+### Rome
+
+### Constantinople
+
+### Babylon
+
+### Polynesia
+
+## Thennla
+
+## Luther Arkwright
+
+## Worlds United
+
+## After the Vampire Wars
+
+## Monster Island
+
+## Fioracitta
+
+<!-- Vehicles in _Mythras Imperative_ are treated in a semi-abstract fashion. Essentially, they are background tools, used to get characters from A to B, with little need for detailed description or statistics. On occasion though, Games Masters will require details for vehicles when it is necessary to represent them in chases or combat situations.
 
 The rules in this section allow for the representation of most kinds of vehicles but in an abstracted way that is intended to permit flexibility and enhance storytelling. Starships and space craft are a little different, although they are based on similar principles.
 
@@ -687,4 +713,4 @@ This extremely high-tech starship is the physical representation of a highly adv
 | **Weapons** | None that it cares to discuss |
 
 <br>
-
+ -->

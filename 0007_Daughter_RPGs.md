@@ -1,6 +1,13 @@
-# Daughter RPGs
+# Rulesets
 
-Games Masters who want to include magic and/or superpowers in their games will find some basic rules for doing so in this section. It is always best to ensure that everyone involved in the game is happy for magic or superpowers to be included, and always give some thought to the kind of game it may produce.
+## Core
+
+## Classic Fantasy
+
+## Destined
+
+## Lyonesse
+<!-- Games Masters who want to include magic and/or superpowers in their games will find some basic rules for doing so in this section. It is always best to ensure that everyone involved in the game is happy for magic or superpowers to be included, and always give some thought to the kind of game it may produce.
 
 ---
 ## Classic Fantasy
@@ -409,4 +416,4 @@ The character has a persistent limiting condition, such as blindness, permanent 
 
 #### Vulnerability
 
-The character takes double damage from a specific form of attack. Alternately the character must make Hard Endurance checks each turn when 5 metres of a specific substance or suffers a level of Fatigue.
+The character takes double damage from a specific form of attack. Alternately the character must make Hard Endurance checks each turn when 5 metres of a specific substance or suffers a level of Fatigue. -->

@@ -1,6 +1,6 @@
 # Free Stuff
 
-Many different things can occur during a _Mythras Imperative_ game. Some are resolved through skill use or one of the major game mechanics such as combat or magic; others require their own rules for adjudication. This chapter provides rules and guidance for a variety of different scenarios that players will encounter while playing the game.
+<!-- Many different things can occur during a _Mythras Imperative_ game. Some are resolved through skill use or one of the major game mechanics such as combat or magic; others require their own rules for adjudication. This chapter provides rules and guidance for a variety of different scenarios that players will encounter while playing the game.
 
 The list is not exhaustive but should represent the most common situations. If Games Masters find there are other situations that require some form of game system adjudication, and that these situations seem to occur frequently, then they are encouraged to develop their own rules to cover these special circumstances, using those given in this chapter as a basis for replication or development.
 
@@ -358,4 +358,4 @@ If a character has exhausted their Action Points during a fight and needs to fin
 
 #### Mitigate Damage
 
-A character who suffers a Major Wound may spend a Luck Point to downgrade the injury to a Serious Wound. This reduces the damage taken to one Hit Point less than what would be required to inflict a Major Wound.
+A character who suffers a Major Wound may spend a Luck Point to downgrade the injury to a Serious Wound. This reduces the damage taken to one Hit Point less than what would be required to inflict a Major Wound. -->
