@@ -1,4 +1,4 @@
-# Free Stuff
+# Free Stuff (WIP)
 
 <!-- Many different things can occur during a _Mythras Imperative_ game. Some are resolved through skill use or one of the major game mechanics such as combat or magic; others require their own rules for adjudication. This chapter provides rules and guidance for a variety of different scenarios that players will encounter while playing the game.
 

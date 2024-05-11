@@ -1,4 +1,4 @@
-# Rules Supplements
+# Rules Supplements (WIP)
 
 
 <!-- This section contains a small sample of creatures and various Creature Abilities. The list of sample creatures is not exhaustive but provides a good template for developing one's own creatures or adapting them from other sources. All the creatures follow the _Mythras Imperative_ rules outlined and explored in this document; however, to reflect the challenge some creatures (the dragon being a prime example) should pose, the rules have been slightly adjusted to allow for the creature's relative power level.

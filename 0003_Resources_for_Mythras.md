@@ -1,4 +1,4 @@
-# Recources for Mythras
+# Recources for Mythras (WIP)
 
 ---
 ## Game Masters
