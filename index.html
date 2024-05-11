@@ -49,16 +49,20 @@
   <script>
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
     window.$docsify = {
+      //coverpage Configuration; namely turning it off
       coverpage: false,
+
+      // Navbar Configuration
+      loadNavbar: true,
+      
+      // Sidebar Configuration
       name: 'Menu',
       //logo: '/_media/icon.png',
-
-      // Sidebar Configuration
       auto2top: true,
       loadSidebar: true,
       maxLevel: 3,
       // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
-      subMaxLevel: 3,
+      subMaxLevel: 2,
 		executeScript: true,
 		// Define custom script to handle link clicks
 		scriptExecution: function() {
