@@ -1,13 +1,8 @@
 - [Introduction](README.md)
-- [Unofficial Mythras Starter Set](0002_Unofficial_Mythras_Starter_Set.md)
+- [Unofficial Mythras Starter Set](0002_UnOfficial_Mythras_Starter_Set.md)
 - [Resources For Mythras](0003_Resources_for_Mythras.md)
 - [Free Stuff](0004_Free_Stuff.md)
-- [SRDs](0005_SRDs.md)
-- [Settigns](0006_Settings.md)
-- [Rulesets](0007_Daughter_RPGs.md)
-- [Rules Supplements](0008_Rules_Supplements.md)
-- [Adventure Supplements](0009_Adventure_Supplements.md)
-<!-- - <details>
+- <details>
     <summary><a href="0005_SRDs.md">System Resource Documents</a></summary>
 
     - [Mythras Imperative SRD](https://srd.mythras.net)
@@ -54,8 +49,8 @@
     - [Book of Schemes](0009_Adventure_Supplements.md#)
     - [Combat Modules](0009_Adventure_Supplements.md#)
     - [All Adventures](0009_Adventure_Supplements.md#)
-    </details> -->
+    </details>
 ---
-- [TDM Website]()
-- [TDM DTRPG]()
-- [Unofficial Mythras Discord]()
+- [Classic Fantasy Imperative SRD](https://cfi-srd.mythras.net)
+- [BRP UGE SRD](https://brpugesrd.xyz)
+- [BRP UGE SRD alternate](https://bruge.us/rules/srd/)

@@ -3,7 +3,7 @@
 Games Masters who want to include magic and/or superpowers in their games will find some basic rules for doing so in this section. It is always best to ensure that everyone involved in the game is happy for magic or superpowers to be included, and always give some thought to the kind of game it may produce.
 
 ---
-## How Powers Work
+## Classic Fantasy
 
 Casting a spell or using a superpower usually requires the expenditure of some form of energy drawn from a pool of points. The size of this pool is equal to the character's POW characteristic, and in the case of magicians the pool is known as Magic Points; and for superheroes, Power Points. Using magic or powers costs a certain number of points that is deducted from this pool, and when the pool is empty, no more magic can be cast, or powers used, until it recovers.
 

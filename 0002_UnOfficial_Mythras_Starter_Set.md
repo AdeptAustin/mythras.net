@@ -1,4 +1,4 @@
-# UnOfficial Mythras Starter Set
+# Unofficial Mythras Starter Set
 
 Every player in _Mythras Imperative_ controls a character. A character is the player's alter-ego, and is usually very different, physically, and mentally, to the player. Characters can be from a variety of races, according to the setting for the game; a historical setting would feature just humans, whereas a fantasy setting could involve dwarves, elves and even lizardmen. The basic character is defined by a series of different elements that describe the character's capabilities. These elements are:
 
