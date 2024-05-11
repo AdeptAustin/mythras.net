@@ -1,7 +1,9 @@
 # Settings
 
+---
 ## Meeros
 
+---
 ## Mythic Earth
 
 ### Britain
@@ -14,16 +16,22 @@
 
 ### Polynesia
 
+---
 ## Thennla
 
+---
 ## Luther Arkwright
 
+---
 ## Worlds United
 
+---
 ## After the Vampire Wars
 
+---
 ## Monster Island
 
+---
 ## Fioracitta
 
 <!-- Vehicles in _Mythras Imperative_ are treated in a semi-abstract fashion. Essentially, they are background tools, used to get characters from A to B, with little need for detailed description or statistics. On occasion though, Games Masters will require details for vehicles when it is necessary to represent them in chases or combat situations.

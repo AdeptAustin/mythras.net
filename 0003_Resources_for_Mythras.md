@@ -1,7 +1,9 @@
 # Recources for Mythras
 
+---
 ## Game Masters
 
+---
 ## Players
 <!-- Skills are divided into two categories: Standard and Professional. All characters have the same set of Standard Skills. Professional Skills differ between individual characters and reflect expertise developed within a career and, to a certain extent, their culture. Despite these distinctions, Standard and Professional Skills work in the same way.
 
