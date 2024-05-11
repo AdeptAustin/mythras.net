@@ -1,4 +1,4 @@
-# Mythras Imperative System Resource Document
+# Mythras Publications and Links
 
 ---
 ## Introduction 
@@ -20,3 +20,7 @@ However, 1d100 offers a great deal of flexibility and nuance that underpins the 
 ## Where do I start?
 
 While _Mythras_ is an extremely flexible toolkit, it always helps to start somewhere familiar. To this end, the community has created the [Unofficial Mythras Starter Set](0002_Unofficial_Mythras_Starter_Set.md) to help new game masters and players get their bearings and start having fun as soon as possible as easily as possible. Be sure to check out the [Resources](0003_Resources_for_Mythras.md) and [Free Stuff](0004_Free_Stuff.md) for more support.
+
+<!-- background color -->
+
+![color](#f5865F2)
