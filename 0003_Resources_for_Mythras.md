@@ -7,7 +7,7 @@ These are resources that are not necessarily required for play, but we find them
 
 ### Hannu's "Notes from Pavis"
 
-Hannu’s index for GMs new to _Mythras_, and references, charts and tools for running _Mythras_ games. “Notes from Pavis” is a huge resource for _Mythras_ GMs.
+Hannu’s index for GMs new to _Mythras_, and references, charts and tools for running _Mythras_ games. _Notes from Pavis_ is a huge resource for _Mythras_ GMs.
 
 #### Starter Resources
 
@@ -47,13 +47,16 @@ From the horses mouth, as it were.
 
 A useful reference for character creation; especially when using pen and paper.
 
+| Links | [TDM](https://thedesignmechanism.com/mythras-character-creation-workbook/) | [DTRPG](https://www.drivethrurpg.com/en/product/254240/mythras-character-creation-workbook) |
+| :-- | :-- | :-- |
+
 ### Community
 
 #### Fancy Auto Calculating Character Sheet
 
 A Google Sheet with fancy automation. Not sure who made it, but god bless. It's radical. Just make a copy and go to town. Excel file linked below incase the sheet ever goes down.
 
-| Links | [GSheet](https://docs.google.com/spreadsheets/d/1Jq63xSupyvwZeH5nWtcViNrzLQd_L7Y3kj_9-uncxvQ/edit?usp=sharing) | [Excel](FANCY_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx) |
+| Links | [GSheet](https://docs.google.com/spreadsheets/d/1Jq63xSupyvwZeH5nWtcViNrzLQd_L7Y3kj_9-uncxvQ/edit?usp=sharing) | [Excel](/FANCY_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx) |
 | :-- | :-- | :-- |
 
 <!-- Skills are divided into two categories: Standard and Professional. All characters have the same set of Standard Skills. Professional Skills differ between individual characters and reflect expertise developed within a career and, to a certain extent, their culture. Despite these distinctions, Standard and Professional Skills work in the same way.
