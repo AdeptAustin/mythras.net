@@ -56,7 +56,7 @@ A useful reference for character creation; especially when using pen and paper.
 
 A Google Sheet with fancy automation. Not sure who made it, but god bless. It's radical. Just make a copy and go to town. Excel file linked below incase the sheet ever goes down.
 
-| Links | [GSheet](https://docs.google.com/spreadsheets/d/1Jq63xSupyvwZeH5nWtcViNrzLQd_L7Y3kj_9-uncxvQ/edit?usp=sharing) | <a href="/mythras-publications-and-links/FANCY_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx">Excel<a/> |
+| Links | [GSheet](https://docs.google.com/spreadsheets/d/1Jq63xSupyvwZeH5nWtcViNrzLQd_L7Y3kj_9-uncxvQ/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/Layout-and-planning/FANCY_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx">Excel<a/> |
 | :-- | :-- | :-- |
 
 <!-- Skills are divided into two categories: Standard and Professional. All characters have the same set of Standard Skills. Professional Skills differ between individual characters and reflect expertise developed within a career and, to a certain extent, their culture. Despite these distinctions, Standard and Professional Skills work in the same way.
