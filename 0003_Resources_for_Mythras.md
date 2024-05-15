@@ -58,3 +58,9 @@ A Google Sheet with fancy automation. Not sure who made it, but god bless. It's 
 <!-- The direct download link will need to be changed for the main branch and be manually updated-->
 | Links | [GSheet](https://docs.google.com/spreadsheets/d/1Jq63xSupyvwZeH5nWtcViNrzLQd_L7Y3kj_9-uncxvQ/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/Layout-and-planning/FANCY_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx">Excel<a/> |
 | :-- | :-- | :-- |
+
+#### Basic Auto Calculating Character Sheet
+
+<!-- The direct download link will need to be changed for the main branch and be manually updated-->
+| Links | [GSheet](https://docs.google.com/spreadsheets/d/1oH6Q-Xj2Tr2yxkWvsWnM3QFVPZWxQHy1BVniN02MCRM/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/Layout-and-planning/BASIC_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx">Excel<a/> |
+| :-- | :-- | :-- |
