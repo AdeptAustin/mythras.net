@@ -10,10 +10,10 @@ Learn more about the different rulesets [here](0007_Daughter_RPGs.md)
 
 #### Mythras Imperative
 
-An 80 page ORC-licensed version of the core system, includes char-gen, combat, Folk Magic & Superpowers and vehicles. Don't think that this is just a cut down version of the rules. There's a lot in here that can be used to run Mythras in almost any setting.
+An 80 page ORC-licensed version of the core system, includes char-gen, combat, Folk Magic & Superpowers and vehicles. Don't think that this is just a cut down version of the rules. There's a lot in here that can be used to run Mythras in almost any setting. The community has helpfully placed the entire thing online for easy access.
 
-| Links | [TDM](https://thedesignmechanism.com/mythras-imperative/) | [DTRPG](https://preview.drivethrurpg.com/en/product/185299/mythras-imperative) |
-| :-- | :-- | :-- |
+| Links | [SRD](https://srd.mythras.net/) | [TDM](https://thedesignmechanism.com/mythras-imperative/) | [DTRPG](https://preview.drivethrurpg.com/en/product/185299/mythras-imperative) |
+| :-- | :-- | :-- | :-- |
 
 #### Game Master's Pack
 
@@ -62,10 +62,10 @@ Learn more about the different rulesets [here](0007_Daughter_RPGs.md)
 
 #### Classic Fantasy Imperative
 
-A shockingly complete, 155 page, ORC-licensed version of the _Classic Fantasy_ system, includes char-gen, combat, magic, creatures, and treasure.
+A shockingly complete, 155 page, ORC-licensed version of the _Classic Fantasy_ system, includes char-gen, combat, magic, creatures, and treasure. The community has helpfully placed the entire thing online for easy access.
 
-| Links | [TDM](https://thedesignmechanism.com/classic-fantasy-imperative-pdf/) | [DTRPG](https://preview.drivethrurpg.com/en/product/449976/classic-fantasy-imperative) |
-| :-- | :-- | :-- |
+| Links | [SRD](https://cfi-srd.mythras.net/) | [TDM](https://thedesignmechanism.com/classic-fantasy-imperative-pdf/) | [DTRPG](https://preview.drivethrurpg.com/en/product/449976/classic-fantasy-imperative) |
+| :-- | :-- | :-- | :-- |
 
 
 #### Mythras Encouter Generator (MEG)
