@@ -61,6 +61,7 @@ A Google Sheet with fancy automation. Not sure who made it, but god bless. It's 
 
 #### Basic Auto Calculating Character Sheet
 
+A Google Sheet with fancy automation, but a more basic coat of paint. Just make a copy and go to town. Excel file linked below incase the sheet ever goes down.
 <!-- The direct download link will need to be changed for the main branch and be manually updated-->
 | Links | [GSheet](https://docs.google.com/spreadsheets/d/1oH6Q-Xj2Tr2yxkWvsWnM3QFVPZWxQHy1BVniN02MCRM/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/Layout-and-planning/BASIC_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx">Excel<a/> |
 | :-- | :-- | :-- |
