@@ -112,7 +112,7 @@ _Mythic Rome_ delves into the birth and fall of the Roman Republic, covering eve
 
 These are the two city maps from _Mythic Rome_, available in A3 size and full colour. They're free to download or for a modest doantion.
 
-| Links | [DTRPG](https://www.drivethrurpg.com/en/product/194871/mythic-rome-maps) | [DIRECT](https://github.com/AdeptAustin/mythras-publications-and-links/raw/Layout-and-planning/Mythic_Rome_Maps.pdf)
+| Links | [DTRPG](https://www.drivethrurpg.com/en/product/194871/mythic-rome-maps) | [Direct](https://github.com/AdeptAustin/mythras-publications-and-links/raw/Layout-and-planning/Mythic_Rome_Maps.pdf)
 | :-- | :-- | :-- |
 
 ### Mythic Constantinople
