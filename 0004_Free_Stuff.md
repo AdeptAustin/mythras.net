@@ -69,5 +69,5 @@ This is a preview of the _Mythras_ supplement _Mythic Britain_ - a complete scen
 
 An intro to the Thennla setting; a magic-rich world of high adventure, with the flavours of classical Greece, Rome, Persia and Byzantium.
 
-| Links | [TDM](https://thedesignmechanism.com/world-of-thennla-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/192774/thennla) | [Direct](https://github.com/AdeptAustin/mythras-publications-and-links/raw/Layout-and-planning/Caves_of_the_Circind.pdf) |
+| Links | [TDM](https://thedesignmechanism.com/world-of-thennla-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/192774/thennla) | [Direct](https://github.com/AdeptAustin/mythras-publications-and-links/raw/Layout-and-planning/Thennla.pdf) |
 | :-- | :-- | :-- | :-- |
