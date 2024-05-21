@@ -64,28 +64,28 @@ _Mythic Britain_ is a complete sourcebook for adventuring in Britain’s Dark Ag
 
 #### Mythic Britain Companion
 
-A companion to Mythic Britain, featuring four full-colour maps (23" x 32" at full size) and additional content: the cults of Mithras and Sabrinna, the coastal kingdom of Bryneich, and an expanded treatment of the Great Spirit Lindis.
+A companion to _Mythic Britain_, featuring four full-colour maps (23" x 32" at full size) and additional content: the cults of Mithras and Sabrinna, the coastal kingdom of Bryneich, and an expanded treatment of the Great Spirit Lindis.
 
 | Links | [TDM](https://thedesignmechanism.com/mythic-britain-companion-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/144044/mythic-britain-companion) |
 | :-- | :-- | :-- |
 
 #### Logres
 
-Logres details the Saxon culture in ancient Britain, covering beliefs, kings, chieftains, politics, and superstitions. The book also presents a mini-campaign set against Cerdic’s arrival on the south coast, where he must navigate belligerent Britons and resentful Saxon settlers alike
+_Logres_ details the Saxon culture in ancient Britain, covering beliefs, kings, chieftains, politics, and superstitions. The book also presents a mini-campaign set against Cerdic’s arrival on the south coast, where he must navigate belligerent Britons and resentful Saxon settlers alike
 
 | Links | [TDM](https://thedesignmechanism.com/mythic-britain-logres-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/206140/mythic-britain-logres) |
 | :-- | :-- | :-- |
 
 #### Waterlands
 
-Waterlands takes you into the desolate fens of eastern Britain, where Celtic and Saxon tribes clash. The central adventure involves acting as emissaries for your Lord during a betrothal, but soon you become investigators as matters take an unexpected turn. The Great Mire holds deep mysteries and darker secrets, making it a compelling setting for your Mythras adventures!
+_Waterlands_ takes you into the desolate fens of eastern Britain, where Celtic and Saxon tribes clash. The central adventure involves acting as emissaries for your Lord during a betrothal, but soon you become investigators as matters take an unexpected turn. The Great Mire holds deep mysteries and darker secrets, making it a compelling setting for your _Mythras_ adventures!
 
 | Links | [TDM](https://thedesignmechanism.com/mythic-britain-waterlands-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/246666/tdm204-waterlands) |
 | :-- | :-- | :-- |
 
 #### Gwynedd
 
-Gwynedd describes the clans, cabals, and coteries vying for Gwynedd’s throne. With detailed history, geography, and motivations, it explores strife, foreign interference, and secret conspiracies. The adventure “Quarrelling Princes” adds to the Mythic Britain campaign, while other adventures delve into sea flooding, mystic artifacts, and druidic power.
+_Gwynedd_ describes the clans, cabals, and coteries vying for Gwynedd’s throne. With detailed history, geography, and motivations, it explores strife, foreign interference, and secret conspiracies. The adventure “Quarrelling Princes” adds to the _Mythic Britain_ campaign, while other adventures delve into sea flooding, mystic artifacts, and druidic power.
 
 | Links | [TDM](https://thedesignmechanism.com/mythic-britain-gwynedd-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/432427/mythic-britain-gwynedd) |
 | :-- | :-- | :-- |
