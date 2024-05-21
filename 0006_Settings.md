@@ -3,10 +3,92 @@
 ---
 ## Meeros
 
+While _Mythras_ doesn't have a default setting, the closest thing is probably _Meeros_. It's the setting used in the core rulebook to describe many situations and provide examples of the rules in play.
+
+#### Shrine of the Traitor Gods
+
+A very short scenario designed to introduce those brand new to roleplaying to Mythras with a programmed adventure using simplified, pre-generated characters.
+
+| Links | [TDM](https://thedesignmechanism.com/shrine-of-the-traitor-gods/) |
+| :-- | :-- |
+
+#### Sariniya's Curse
+
+A free introductory adventure for _Mythras_.
+
+When Trimostones the Gold, the most successful merchant of _Meeros_, assembles a crew to sail to the remote isle Iaxos, he needs brave adventurers to sail with him. But what are his motives for this voyage? And what does it have to do with an ancient curse tied to the city?
+
+| Links | [TDM](https://thedesignmechanism.com/sariniya-s-curse/) | [DTRPG](https://preview.drivethrurpg.com/en/product/131172/sariniya-s-curse) |
+| :-- | :-- | :-- |
+
+#### Meeros Falling
+
+This adventure is found in the Games Master's Pack
+
+This is an introductory _Mythras_ scenario set in the city-state of _Meeros_. It follows on directly from Anathaym’s trial and betrayal at the hands of Misogynistes and involves the characters in the aftermath of the terrible earthquake that struck the city.
+
+| Links | [TDM](https://thedesignmechanism.com/mythras-games-masters-pack/) |
+| :-- | :-- |
+
+#### Meeros Doomed
+
+The City State of Meeros lies broken. Queen Herathos wants the renegade priestess, Kara, brought to justice to atone for her treachery. The characters are tasked with venturing to distant Kopash, and charged with making her arrest.
+
+But is all as it seems? Powerful forces are plotting to destroy _Meeros_ completely, and those who have protected the city may well be the ones who secure its doom. The characters must uncover traitors, travel into monster-infested swamps, confront sorcerous fiends, and perhaps even ally themselves with _Meeros'_ ancient foes, the Badoshi Warlords, if they are to avenge the Doom that has come to _Meeros_!
+
+| Links | [TDM](https://thedesignmechanism.com/meeros-doomed-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/310825/meeros-doomed) |
+| :-- | :-- | :-- |
+
+#### Xamoxis' Cleansing
+
+Upriver from Meeros, Dianthe Kalos and her wealthy family controls the small city of Tithys. Recently, Dianthe has come into knowledge of the whereabouts of the fabled treasure known as The Cleansing. She is looking for keen adventurers to retrieve it for her.
+
+But she is not the only one interested in The Cleansing: a vengeful goddess, a warband of panthotaurs seeking retirbution, and a sinster cult of shaman-assassins also want it. The race is on to uncover the mysteries of the Flooded Temple and secure this powerful magic item - or die trying...
+
+Xamoxis' Cleansing is a Mythras scenario for 4-6 characters who are competent in melee and magic.
+
+| Links | [TDM](https://thedesignmechanism.com/xamoxis-cleansing-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/200719/xamoxis-cleansing) |
+| :-- | :-- | :-- |
+
 ---
 ## Mythic Earth
 
+The _Mythic Earth_ Series from _The Design Mechanism_ explores alternative histories infused with magic and monsters. These supplements provide intricate details about historical periods, cultures, and mysteries. They offer rich roleplaying experiences within familiar yet fantastical settings.
+
 ### Britain
+
+_Mythic Britain_ is a complete sourcebook for adventuring in Britain’s Dark Ages using the _Mythras_ rules. It delves into ancient magic, druids, and the clash of invading Romans, Saxons, and more. Explore mystical ruins, unravel secrets, and fight for the fading Old Ways.
+
+| Links | [TDM](https://thedesignmechanism.com/mythic-britain-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/139443/mythic-britain) |
+| :-- | :-- | :-- |
+
+#### Mythic Britain Companion
+
+A companion to Mythic Britain, featuring four full-colour maps (23" x 32" at full size) and additional content: the cults of Mithras and Sabrinna, the coastal kingdom of Bryneich, and an expanded treatment of the Great Spirit Lindis.
+
+| Links | [TDM](https://thedesignmechanism.com/mythic-britain-companion-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/144044/mythic-britain-companion) |
+| :-- | :-- | :-- |
+
+#### Logres
+
+Logres details the Saxon culture in ancient Britain, covering beliefs, kings, chieftains, politics, and superstitions. The book also presents a mini-campaign set against Cerdic’s arrival on the south coast, where he must navigate belligerent Britons and resentful Saxon settlers alike
+
+| Links | [TDM](https://thedesignmechanism.com/mythic-britain-logres-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/206140/mythic-britain-logres) |
+| :-- | :-- | :-- |
+
+#### Waterlands
+
+Waterlands takes you into the desolate fens of eastern Britain, where Celtic and Saxon tribes clash. The central adventure involves acting as emissaries for your Lord during a betrothal, but soon you become investigators as matters take an unexpected turn. The Great Mire holds deep mysteries and darker secrets, making it a compelling setting for your Mythras adventures!
+
+| Links | [TDM](https://thedesignmechanism.com/mythic-britain-waterlands-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/246666/tdm204-waterlands) |
+| :-- | :-- | :-- |
+
+#### Gwynedd
+
+Gwynedd describes the clans, cabals, and coteries vying for Gwynedd’s throne. With detailed history, geography, and motivations, it explores strife, foreign interference, and secret conspiracies. The adventure “Quarrelling Princes” adds to the Mythic Britain campaign, while other adventures delve into sea flooding, mystic artifacts, and druidic power.
+
+| Links | [TDM](https://thedesignmechanism.com/mythic-britain-gwynedd-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/432427/mythic-britain-gwynedd) |
+| :-- | :-- | :-- |
 
 ### Rome
 
