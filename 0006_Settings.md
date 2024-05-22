@@ -211,17 +211,78 @@ _Khakun Shrugs_ is an epic quest set in the world of _Thennla_. In this adventur
 ---
 ## Luther Arkwright
 
+#### Luther Arkwright: Roleplaying Across the Parallels
+
+_Luther Arkwright: Roleplaying Across the Parallels_ is a _Mythras_ supplement based on Bryan Talbot’s acclaimed graphic novels. It introduces the Arkwright multiverse, where countless parallel dimensions exist. In this rich setting, players can explore diverse realities, create contemporary characters, utilize psionics, wield technology, firearms, and more. The Valhalla Project, led by the powerful psychic agent Luther Arkwright, strives to thwart the disruptive forces threatening the multiverse
+
+| Links | [TDM](https://thedesignmechanism.com/luther-arkwright-roleplaying-across-the-parallels-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/149843/luther-arkwright-roleplaying-across-the-parallels) |
+| :-- | :-- | :-- |
+
+#### Parallel Lines
+
+_Luther Arkwright: Parallel Lines_ is a _Mythras_ supplement that invites you to join Valhalla’s Mjollnir Section. In this thrilling adventure, you’ll investigate planar anomalies and nefarious Disruptor schemes across eight separate missions. Uncover the secrets of the Disruptor Knight Loki, unravel strange psychic emanations in New England, prevent the destruction caused by Kyland the Warlord, and confront sinister forces aboard the Trans-Siberian Express and the airship Empress Katerina. Each mission stands alone but can be woven together into a vast campaign with recurring characters and villains.
+
+| Links | [TDM](https://thedesignmechanism.com/luther-arkwright-parallel-lines-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/210281/luther-arkwright-parallel-lines) |
+| :-- | :-- | :-- |
+
 ---
 ## Worlds United
+
+#### Worlds United
+
+_Worlds United_ is a Planetary Romance setting capturing the pulp feel of the Golden Age of Science Fiction. Within its 128 pages, you’ll find gleaming rocket ships, octopoid Martians, intrepid heroes with unique powers, and lizard and snake men in the Venusian jungles. Set in an alternate 1950s, where the Cold War simmers and Martian invasions have reshaped Earth’s attitudes, this self-contained setting invites adventure across the cosmos. It’s a thrilling blend of John Carter, Doc Savage, Clarke Ashton Smith, Jack Vance, and more, all with a dash of Luther Arkwrightian flavor
+
+| Links | [TDM](https://thedesignmechanism.com/worlds-united-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/264521/worlds-united) |
+| :-- | :-- | :-- |
 
 ---
 ## After the Vampire Wars
 
+
+#### After the Vampire Wars
+
+_After the Vampire Wars_ adapts the _Mythras_ rules to the contemporary era and the urban fantasy genre. It supports a wide range of campaign types: from gritty Noir, to fast and deadly cinematic adventure; from whimsical urban fantasy to passion-fueled paranormal romance
+
+| Links | [TDM](https://thedesignmechanism.com/after-the-vampire-wars-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/232478/after-the-vampire-wars) |
+| :-- | :-- | :-- |
+
 ---
 ## Monster Island
 
+#### Monster Island
+
+_Monster Island_ is a _Mythras_ supplement that immerses players in a tropical, prehistoric world teeming with ancient beasts, lost civilizations, and mysterious magic. Explore the Isle of Dread, encounter dinosaur gods, and unravel the island’s secrets.
+
+| Links | [TDM](https://thedesignmechanism.com/monster-island-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/116267/monster-island) |
+| :-- | :-- | :-- |
+
+#### Monster Island Companion
+
+The _Monster Island Companion_ is a PDF accompaniment to Design Mechanism’s Monster Island book. It includes a massive, A2-size, full-color, layered map of the island. You can customize the display by toggling elements like the hex grid, place names, locations, and political boundaries. Whether you’re exploring the Isle of Dread, encountering dinosaur gods, or unraveling the island’s secrets, this companion enhances your adventures on this perilous, untamed land. While the companion is free on _The Design Mechanism's_ website, it costs on DriveThruRPG; so we've refrained from posting a direct file link.
+
+| Links | [TDM](https://thedesignmechanism.com/monster-island-companion/) | [DTRPG](https://www.drivethrurpg.com/en/product/116269/monster-island-companion) |
+| :-- | :-- | :-- |
+
+#### A Bird in the Hand
+
+_A Bird in the Hand_ is a perilous scenario set in _Monster Island_. In Port Grimsand, Coynrad Lornnz, the infamous bird hunter, has stumbled upon his most exotic specimen yet: the Greater Crested Trill Warbler, a fabulous bird unlike any species discovered on the mysterious _Monster Island_. Naturally, Scabrous the Usurer, a moneylender with an unparalleled private aviary, has purchased the bird, paying handsomely for the privilege. But he’s not alone in coveting the Greater Crested Trill Warbler, and others desire this seemingly unique specimen. The characters, adrift in the nefarious alleys of Port Grimsand, are hired to liberate the bird from Scabrous and must find a way to make it their own. However, as is often the case, not everything is as it seems, and soon the characters embark on a dangerous expedition to the Tane Jungle, in a quest to prevent something terrible and powerful from wiping out all life on the island. In addition to the central adventure, the supplement also provides detailed advice on sandbox-style exploration of _Monster Island_, including handling overland movement, special hazards, fatigue, and the treacherous seasons of the island.
+
+| Links | [TDM](https://thedesignmechanism.com/a-bird-in-the-hand-pdf-1/) | [DTRPG](https://www.drivethrurpg.com/en/product/341555/a-bird-in-the-hand) |
+| :-- | :-- | :-- |
+
 ---
 ## Fioracitta
+
+#### Fioracitta
+
+_Fioracitta_ is a captivating supplement for the _Mythras_ role-playing game. In this vibrant fantasy setting, the city of _Fioracitta_ stands as the Heart of Power. From ancient streets to bristling modernity, she welcomes all visitors with open arms.
+
+_Fioracitta_ draws inspiration from Italian city-states of the late medieval period and the Renaissance. It creates a rich and self-contained fantasy world, where intrigue, politics, and magic intertwine. The supplement provides detailed information on the city’s history, geography, culture, and more. It introduces non-human species like the Ophidians, Longane, and Monacielli.
+
+For Games Masters, _Fioracitta_ equips you with everything needed to craft adventures or even an entire campaign within this intriguing setting. Whether you’re exploring _Fioracitta’s_ intrigues or embarking on epic quests, this supplement offers a wealth of storytelling possibilities.
+
+| Links | [TDM](https://thedesignmechanism.com/fioracitta-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/326927/fioracitta) |
+| :-- | :-- | :-- |
 
 <!-- Vehicles in _Mythras Imperative_ are treated in a semi-abstract fashion. Essentially, they are background tools, used to get characters from A to B, with little need for detailed description or statistics. On occasion though, Games Masters will require details for vehicles when it is necessary to represent them in chases or combat situations.
 
