@@ -4,7 +4,7 @@
 - [Free Stuff](0004_Free_Stuff.md)
 - [SRDs](0005_SRDs.md)
 - [Settings](0006_Settings.md)
-- [Rulesets](0007_Daughter_RPGs.md)
+- [Rulesets](0007_Rulesets.md)
 - [Rules Supplements](0008_Rules_Supplements.md)
 - [Adventure Supplements](0009_Adventure_Supplements.md)
 ---
