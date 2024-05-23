@@ -7,7 +7,7 @@
     - [SRDs](0005_SRDs.md)
 - Publications
     - [Settings](0006_Settings.md)
-    - [Rulesets](0007_Daughter_RPGs.md)
+    - [Rulesets](0007_Rulesets.md)
     - [Rules Supplements](0008_Rules_Supplements.md)
     - [Adventure Supplements](0009_Adventure_Supplements.md)
 - Publisher
