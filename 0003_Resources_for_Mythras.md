@@ -5,6 +5,15 @@ These are resources that are not necessarily required for play, but we find them
 ---
 ## Game Masters
 
+### The Design Mechanism
+
+#### Mythras GM Screen
+
+The Mythras GM Screen contains 16, 11x 8.5" cards featuring artwork and essential tables from the Mythras core rules. Seven of the cards feature cover artwork from Mythras titles and are player-facing, while the remainder contain a variety of tables and charts.
+
+| Links | [TDM](https://thedesignmechanism.com/mythras-gm-screen/) | [DTRPG](https://www.drivethrurpg.com/en/product/254891/mythras-gm-screen) |
+| :-- | :-- | :-- |
+
 ### Hannu's "Notes from Pavis"
 
 Hannu’s index for GMs new to _Mythras_, and references, charts and tools for running _Mythras_ games. _Notes from Pavis_ is a huge resource for _Mythras_ GMs.
@@ -41,14 +50,17 @@ A tool that allows gamemasters to quickly define, maintain and generate groups o
 
 ### The Design Mechanism
 
-From the horses mouth, as it were.
-
 #### Character Creation Workbook
 
 A useful reference for character creation; especially when using pen and paper.
 
 | Links | [TDM](https://thedesignmechanism.com/mythras-character-creation-workbook/) | [DTRPG](https://www.drivethrurpg.com/en/product/254240/mythras-character-creation-workbook) |
 | :-- | :-- | :-- |
+
+#### Character Sheets
+
+| Links | [TDM](https://thedesignmechanism.com/character-sheets/) |
+| :-- | :-- |
 
 ### Community
 

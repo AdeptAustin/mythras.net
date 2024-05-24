@@ -10,8 +10,8 @@ _Mythras_ as a system is a toolkit and therefore already extremley flexible. But
 
 The _Mythras_ Core Rulebook is the bedrock of the _Mythras_ role-playing game system. It's a toolkit designed to empower Game Masters to create and run the world they've always wanted as well as offer a rich and immersive experience for players. It has a focus on depth, realism, and flexibility.
 
-| Links | [TDM](https://thedesignmechanism.com/mythras-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/191475/mythras) |
-| :-- | :-- | :-- |
+| Links | [TDM](https://thedesignmechanism.com/mythras-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/191475/mythras) | [SRD](https://srd.mythras.net/) |
+| :-- | :-- | :-- | :-- |
 
 ---
 ## Classic Fantasy
@@ -20,8 +20,8 @@ _Classic Fantasy_ is technically not a ruleset in and of itself. It's more like 
 
 The _Mythras_ Core Rulebook is needed to play _Classic Fantasy_
 
-| Links | [TDM](https://thedesignmechanism.com/classic-fantasy-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/180255/classic-fantasy-tdm500) |
-| :-- | :-- | :-- |
+| Links | [TDM](https://thedesignmechanism.com/classic-fantasy-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/180255/classic-fantasy-tdm500) | [SRD](https://cfi-srd.mythras.net/) |
+| :-- | :-- | :-- | :-- |
 
 ---
 ## Destined
