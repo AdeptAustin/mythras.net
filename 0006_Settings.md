@@ -154,6 +154,13 @@ _Mythic Babylon_ takes you back to the 18th century BC. Within the ancient city 
 | Links | [TDM](https://thedesignmechanism.com/mythic-babylon-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/355333/mythic-babylon) |
 | :-- | :-- | :-- |
 
+#### Mythic Babylon Maps & Resources
+
+This supplement for Mythic Babylon provides a complete set of regional, trade and city maps, including several that could not be included in the main book, at a larger scale for players and Games Masters. Also included is a two page character sheet for Mythic Babylon adventurers.
+
+| Links | [TDM](https://thedesignmechanism.com/mythic-babylon-maps-resources-pdf) |
+| :-- | :-- |
+
 ### Mythic Polynesia
 
 #### Mythic Polynesia
@@ -282,4 +289,14 @@ _Fioracitta_ draws inspiration from Italian city-states of the late medieval per
 For Games Masters, _Fioracitta_ equips you with everything needed to craft adventures or even an entire campaign within this intriguing setting. Whether you’re exploring _Fioracitta’s_ intrigues or embarking on epic quests, this supplement offers a wealth of storytelling possibilities.
 
 | Links | [TDM](https://thedesignmechanism.com/fioracitta-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/326927/fioracitta) |
+| :-- | :-- | :-- |
+
+---
+## Book of Schemes
+
+#### Book of Schemes
+
+The _Book of Schemes_ is an intriguing _Mythras_ supplement that delves into the realm of grey morality, personal interests, and rivalry. Rather than focusing on traditional heroics, this book invites players and Game Masters to explore scheming and intrigue. Set in the city-state of Guelden within the lands of Wittringia, it provides a self-contained guide to the city’s politics, factions, secrets, and feuds. Within its pages, you’ll find everything needed for an exciting campaign set against Guelden’s labyrinthine cobbles. The book also covers cults, magic, guilds, gangs, and offers a multitude of scenario ideas. It even includes a complete introductory adventure titled “Chaos at the Quay”. So prepare to walk the treacherous streets of Guelden, where treachery is only a footfall away!
+
+| Links | [TDM](https://thedesignmechanism.com/book-of-schemes-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/468943/book-of-schemes) |
 | :-- | :-- | :-- |
