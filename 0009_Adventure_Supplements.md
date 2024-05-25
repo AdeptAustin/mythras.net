@@ -1,7 +1,8 @@
 # Adventures (WIP)
 
 ---
-## Adventure Collections
+<details>
+<summary><h2>Adventure Collections</h2></summary>
 
 #### Book of Quests
 
@@ -32,6 +33,7 @@ _Brace Yourself!_ is the third installment in the _Mythras_ Combat Module series
 
 | Links | [TDM](https://thedesignmechanism.com/brace-yourself-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/366383/brace-yourself-mythras-combat-module) |
 | :-- | :-- | :-- |
+</details>
 
 ---
 ## Adventure Modules
