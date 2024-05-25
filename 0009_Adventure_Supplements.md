@@ -1,8 +1,10 @@
 # Adventures (WIP)
 
 ---
+## Adventure Collections
+
 <details>
-<summary><h2>Adventure Collections</h2></summary>
+<summary></summary>
 
 #### Book of Quests
 
@@ -38,7 +40,13 @@ _Brace Yourself!_ is the third installment in the _Mythras_ Combat Module series
 ---
 ## Adventure Modules
 
+<details>
+<summary></summary>
+
 ### Core
+
+<details>
+<summary></summary>
 
 #### White Death
 
@@ -185,7 +193,12 @@ _Gwynedd_ describes the clans, cabals, and coteries vying for Gwynedd’s throne
 | Links | [TDM](https://thedesignmechanism.com/mythic-britain-gwynedd-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/432427/mythic-britain-gwynedd) |
 | :-- | :-- | :-- |
 
+</details>
+
 ### Classic Fantasy
+
+<details>
+<summary></summary>
 
 #### The Lonely Lighthouse
 
@@ -243,7 +256,12 @@ _The Temple of Set_ is an adventure for experienced Rank 5 _Mythras_ _Classic Fa
 | Links | [TDM](https://thedesignmechanism.com/the-temple-of-set-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/368058/the-temple-of-set-tdm509) |
 | :-- | :-- | :-- |
 
+</details>
+
 ### Destined
+
+<details>
+<summary></summary>
 
 #### Agony & Ecstasy
 
@@ -259,8 +277,12 @@ _Power Outage_ is an adventure for _Destined_, a game of super-powered role-play
 | Links | [TDM](https://thedesignmechanism.com/power-outage-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/476224/power-outage) |
 | :-- | :-- | :-- |
 
+</details>
 
 ### Lyonesse
+
+<details>
+<summary></summary>
 
 #### Coddefut's Stipule
 
@@ -275,3 +297,6 @@ _In High Dudgeon_ is an investigative scenario for the _Lyonesse_ roleplaying ga
 
 | Links | [TDM](https://thedesignmechanism.com/in-high-dudgeon-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/314519/in-high-dudgeon) |
 | :-- | :-- | :-- |
+
+</details>
+</details>
