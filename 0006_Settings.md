@@ -3,7 +3,8 @@
 ---
 ## Meeros
 
-While _Mythras_ doesn't have a default setting, the closest thing is probably _Meeros_. It's the setting used in the core rulebook to describe many situations and provide examples of the rules in play.
+<details>
+<summary>While <i>Mythras</i> doesn't have a default setting, the closest thing is probably <i>Meeros</i>. It's the setting used in the core rulebook to describe many situations and provide examples of the rules in play.</summary>
 
 #### Shrine of the Traitor Gods
 
@@ -50,12 +51,18 @@ Xamoxis' Cleansing is a Mythras scenario for 4-6 characters who are competent in
 | Links | [TDM](https://thedesignmechanism.com/xamoxis-cleansing-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/200719/xamoxis-cleansing) |
 | :-- | :-- | :-- |
 
+</details>
+
 ---
 ## Mythic Earth
 
-The _Mythic Earth_ Series from _The Design Mechanism_ explores alternative histories infused with magic and monsters. These supplements provide intricate details about historical periods, cultures, and mysteries. They offer rich roleplaying experiences within familiar yet fantastical settings.
+<details>
+<summary>The <i>Mythic Earth</i> Series from <i>The Design Mechanism</i> explores alternative histories infused with magic and monsters. These supplements provide intricate details about historical periods, cultures, and mysteries. They offer rich roleplaying experiences within familiar yet fantastical settings.</summary>
 
 ### Mythic Britain
+
+<details>
+<summary>Britain in the dark ages</summary>
 
 #### Mythic Britain
 
@@ -99,7 +106,12 @@ _Gwynedd_ describes the clans, cabals, and coteries vying for Gwynedd’s throne
 | Links | [TDM](https://thedesignmechanism.com/mythic-britain-gwynedd-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/432427/mythic-britain-gwynedd) |
 | :-- | :-- | :-- |
 
+</details>
+
 ### Mythic Rome
+
+<details>
+<summary>Ancient Rome from beginning to end</summary>
 
 #### Mythic Rome
 
@@ -115,7 +127,12 @@ These are the two city maps from _Mythic Rome_, available in A3 size and full co
 | Links | [DTRPG](https://www.drivethrurpg.com/en/product/194871/mythic-rome-maps) | [Direct](https://github.com/AdeptAustin/mythras-publications-and-links/raw/Layout-and-planning/Mythic_Rome_Maps.pdf)
 | :-- | :-- | :-- |
 
+</details>
+
 ### Mythic Constantinople
+
+<details>
+<summary>The crossroads of the world</summary>
 
 #### Mythic Constatinople
 
@@ -145,7 +162,12 @@ This pack contains large-scale versions of the City & Districts map, European Em
 | Links | [TDM](https://thedesignmechanism.com/mythic-constantinople-map-pack/) | [DTRPG](https://www.drivethrurpg.com/en/product/229020/mythic-constantinople-map-pack) |
 | :-- | :-- | :-- |
 
+</details>
+
 ### Mythic Babylon
+
+<details>
+<summary>Ancient Mesopotamia</summary>
 
 #### Mythic Babylon
 
@@ -161,7 +183,12 @@ This supplement for Mythic Babylon provides a complete set of regional, trade an
 | Links | [TDM](https://thedesignmechanism.com/mythic-babylon-maps-resources-pdf) |
 | :-- | :-- |
 
+</details>
+
 ### Mythic Polynesia
+
+<details>
+<summary>Myths of the Pacific</summary>
 
 #### Mythic Polynesia
 
@@ -170,8 +197,14 @@ _Mythic Polynesia_ immerses players in the vibrant world of the Great Ocean. Thi
 | Links | [TDM](https://thedesignmechanism.com/mythic-polynesia-pdf/) |
 | :-- | :-- |
 
+</details>
+</details>
+
 ---
 ## Thennla
+
+<details>
+<summary><i>Thennla</i> is a flexible magic rich setting ripe for Game Master inovation</summary>
 
 #### Thennla
 
@@ -215,8 +248,13 @@ _Khakun Shrugs_ is an epic quest set in the world of _Thennla_. In this adventur
 | Links | [TDM](https://thedesignmechanism.com/khakun-shrugs-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/206139/khakun-shrugs) |
 | :-- | :-- | :-- |
 
+</details>
+
 ---
 ## Luther Arkwright
+
+<details>
+<summary>Multiversal, science fiction shenanigens with a distict British charm</summary>
 
 #### Luther Arkwright: Roleplaying Across the Parallels
 
@@ -232,8 +270,13 @@ _Luther Arkwright: Parallel Lines_ is a _Mythras_ supplement that invites you to
 | Links | [TDM](https://thedesignmechanism.com/luther-arkwright-parallel-lines-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/210281/luther-arkwright-parallel-lines) |
 | :-- | :-- | :-- |
 
+</details>
+
 ---
 ## Worlds United
+
+<details>
+<summary>Golden age science fiction</summary>
 
 #### Worlds United
 
@@ -242,8 +285,13 @@ _Worlds United_ is a Planetary Romance setting capturing the pulp feel of the Go
 | Links | [TDM](https://thedesignmechanism.com/worlds-united-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/264521/worlds-united) |
 | :-- | :-- | :-- |
 
+</details>
+
 ---
 ## After the Vampire Wars
+
+<details>
+<summary>Contemporary urban fantasy</summary>
 
 
 #### After the Vampire Wars
@@ -253,8 +301,13 @@ _After the Vampire Wars_ adapts the _Mythras_ rules to the contemporary era and 
 | Links | [TDM](https://thedesignmechanism.com/after-the-vampire-wars-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/232478/after-the-vampire-wars) |
 | :-- | :-- | :-- |
 
+</details>
+
 ---
 ## Monster Island
+
+<details>
+<summary>A landmark supplement for weird fantasy</summary>
 
 #### Monster Island
 
@@ -277,8 +330,13 @@ _A Bird in the Hand_ is a perilous scenario set in _Monster Island_. In Port Gri
 | Links | [TDM](https://thedesignmechanism.com/a-bird-in-the-hand-pdf-1/) | [DTRPG](https://www.drivethrurpg.com/en/product/341555/a-bird-in-the-hand) |
 | :-- | :-- | :-- |
 
+</details>
+
 ---
 ## Fioracitta
+
+<details>
+<summary>Fantasy medieval renaissance</summary>
 
 #### Fioracitta
 
@@ -291,8 +349,13 @@ For Games Masters, _Fioracitta_ equips you with everything needed to craft adven
 | Links | [TDM](https://thedesignmechanism.com/fioracitta-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/326927/fioracitta) |
 | :-- | :-- | :-- |
 
+</details>
+
 ---
 ## Book of Schemes
+
+<details>
+<summary>Political intrigue in a 15th century city</summary>
 
 #### Book of Schemes
 
@@ -300,3 +363,5 @@ The _Book of Schemes_ is an intriguing _Mythras_ supplement that delves into the
 
 | Links | [TDM](https://thedesignmechanism.com/book-of-schemes-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/468943/book-of-schemes) |
 | :-- | :-- | :-- |
+
+</details>
