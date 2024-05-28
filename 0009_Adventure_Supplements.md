@@ -46,7 +46,7 @@ _Brace Yourself!_ is the third installment in the _Mythras_ Combat Module series
 ### Core
 
 <details>
-<summary>All adventures designed with the core rules in mind. Many of which are also shown with their settings in <a href="0006_Settings.md">Settings</a></summary>
+<summary>All adventures designed with the core rules in mind. Many of which are also shown with their settings in <a href="/0006_Settings.md">Settings</a></summary>
 
 #### White Death
 
