@@ -80,5 +80,13 @@ A tool that allows gamemasters to quickly define, maintain and generate groups o
 ---
 ## Destined
 
+_Destined_ brings Superheros and villains to the _Mythras_ rules. This is a WIP starter set for _Destined_.
+
+Learn more about the different rulesets [here](0007_Rulesets.md)
+
 ---
 ## Lyonesse
+
+_Lyonesse_ brings Jack Vance's world to life with the _Mythras_ rules. This is a WIP starter set for _Lyonesse_.
+
+Learn more about the different rulesets [here](0007_Rulesets.md)
