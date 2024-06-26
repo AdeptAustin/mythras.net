@@ -80,7 +80,7 @@ A Google Sheet with fancy automation, but a more basic coat of paint. Just make 
 
 #### Destined Auto Calculating Character Sheets
 
-Google Sheets with fancy automation. One for the skill pyramid character building method from _Destined_ and another for the character building rules in _Mythras_ core Just make a copy and go to town. Excel file linked below incase the sheet ever goes down. Everyone give Raleel and big handclap for making these :clap: :clap: :clap:
+Google Sheets with fancy automation. One for the skill pyramid character building method from _Destined_ and another for the character building rules in _Mythras_ core Just make a copy and go to town. Excel file linked below incase the sheet ever goes down. Everyone give Raleel a big handclap for making these :clap: :clap: :clap:
 
 | Links | Skill Pyramid | Core |
 | :-- | :-- | :-- |
