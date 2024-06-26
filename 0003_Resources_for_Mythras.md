@@ -67,13 +67,22 @@ A useful reference for character creation; especially when using pen and paper.
 #### Fancy Auto Calculating Character Sheet
 
 A Google Sheet with fancy automation. Not sure who made it, but god bless. It's radical. Just make a copy and go to town. Excel file linked below incase the sheet ever goes down.
-<!-- The direct download link will need to be changed for the main branch and be manually updated-->
+
 | Links | [GSheet](https://docs.google.com/spreadsheets/d/1Jq63xSupyvwZeH5nWtcViNrzLQd_L7Y3kj_9-uncxvQ/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/FANCY_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx">Excel<a/> |
 | :-- | :-- | :-- |
 
 #### Basic Auto Calculating Character Sheet
 
 A Google Sheet with fancy automation, but a more basic coat of paint. Just make a copy and go to town. Excel file linked below incase the sheet ever goes down.
-<!-- The direct download link will need to be changed for the main branch and be manually updated-->
+
 | Links | [GSheet](https://docs.google.com/spreadsheets/d/1oH6Q-Xj2Tr2yxkWvsWnM3QFVPZWxQHy1BVniN02MCRM/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/BASIC_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx">Excel<a/> |
 | :-- | :-- | :-- |
+
+#### Destined Auto Calculating Character Sheets
+
+Google Sheets with fancy automation. One for the skill pyramid character building method from _Destined_ and another for the character building rules in _Mythras_ core Just make a copy and go to town. Excel file linked below incase the sheet ever goes down. Everyone give Raleel and big handclap for making these :clap: :clap: :clap:
+
+| Links | Skill Pyramid | Core |
+| :-- | :-- | :-- |
+| Google | [Gsheet](https://docs.google.com/spreadsheets/d/1U4ngUX5gB70_YAPJQV5GtwD204RkdoihrXkQIyaP8wo/edit?usp=sharing) | [Gsheet](https://docs.google.com/spreadsheets/d/17zn0TBLOVn7ZJ0LsBqd0DjD7_jk9170qvNbF9tfQ8pE/edit?usp=sharing) |
+| Microsoft | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Destined_Autocalculating_Sheet_-_Skill_Pyramid_Version.xlsx">Excel<a/> | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Destined_Autocalculating_Sheet.xlsx">Excel<a/> |
