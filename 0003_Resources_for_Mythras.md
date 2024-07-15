@@ -45,6 +45,17 @@ A tool that allows gamemasters to quickly define, maintain and generate groups o
 | Links | [MEG](https://mythras.skoll.xyz/instructions/) |
 | :-- | :-- |
 
+### Community
+
+#### Cheat Sheet
+
+A sheet full of quick references from situational modifiers to falling damage. Huge thanks to Duke Herb on the _Mythras_ Discord.
+
+https://drive.google.com/file/d/1f5FVPO4t0ZGYLbax81SUSwnVnfk7GrKz/view?usp=sharing
+
+| Links | [GDrive](https://drive.google.com/file/d/1f5FVPO4t0ZGYLbax81SUSwnVnfk7GrKz/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Cheat_Sheet.pdf">PDF<a/> |
+| :-- | :-- | :-- |
+
 ---
 ## Players
 
@@ -86,3 +97,12 @@ Google Sheets with fancy automation. One for the skill pyramid character buildin
 | :-- | :-- | :-- |
 | Google | [Gsheet](https://docs.google.com/spreadsheets/d/1U4ngUX5gB70_YAPJQV5GtwD204RkdoihrXkQIyaP8wo/edit?usp=sharing) | [Gsheet](https://docs.google.com/spreadsheets/d/17zn0TBLOVn7ZJ0LsBqd0DjD7_jk9170qvNbF9tfQ8pE/edit?usp=sharing) |
 | Microsoft | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Destined_Autocalculating_Sheet_-_Skill_Pyramid_Version.xlsx">Excel<a/> | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Destined_Autocalculating_Sheet.xlsx">Excel<a/> |
+
+#### Cheat Sheet
+
+A sheet full of quick references from situational modifiers to falling damage. Huge thanks to Duke Herb on the _Mythras_ Discord.
+
+https://drive.google.com/file/d/1f5FVPO4t0ZGYLbax81SUSwnVnfk7GrKz/view?usp=sharing
+
+| Links | [GDrive](https://drive.google.com/file/d/1f5FVPO4t0ZGYLbax81SUSwnVnfk7GrKz/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Cheat_Sheet.pdf">PDF<a/> |
+| :-- | :-- | :-- |
