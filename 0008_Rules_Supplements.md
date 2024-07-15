@@ -1,4 +1,4 @@
-# Rules Supplements (WIP)
+# Rules Supplements
 
 ---
 ## Core

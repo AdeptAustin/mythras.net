@@ -7,6 +7,7 @@
 - [Rulesets](0007_Rulesets.md)
 - [Rules Supplements](0008_Rules_Supplements.md)
 - [Adventure Supplements](0009_Adventure_Supplements.md)
+- [Homebrew](0010_Homebrew.md)
 ---
 - [TDM Website](https://thedesignmechanism.com/)
 - [TDM DTRPG](https://www.drivethrurpg.com/en/publisher/4057/design-mechanism)

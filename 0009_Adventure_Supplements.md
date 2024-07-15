@@ -1,4 +1,4 @@
-# Adventures (WIP)
+# Adventures
 
 ---
 ## Adventure Collections
