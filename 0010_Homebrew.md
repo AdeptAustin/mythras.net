@@ -34,7 +34,7 @@ There's actually two resources provided by the community for you to use for role
 | :-- | :-- | :-- | :-- |
 
 #### The Witcher
-Useful for those interesting in exploring the Northern Realms. An attempt was made to remain faithful to the chosen source material as well as some ispiration from the video games.
+Useful for those interesting in exploring the Northern Realms. An attempt was made to remain faithful to the chosen source material as well as some ispiration from the video games. Credit to Fellblade on the _Mythras_ Discord.
 
 | Links | [GDoc](https://docs.google.com/document/d/13xSpg6gfIE39f8dJC_DkEwB_S6Cp4BBUM3qUbWUxsfY) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Witchers_and_Witcher's_Bestiary_in_Mythras.docx">Word<a/> | [Discord](https://discord.com/channels/469341944888164352/1234154401858588672) |
 | :-- | :-- | :-- | :-- |
