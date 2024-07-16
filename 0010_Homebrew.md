@@ -30,7 +30,7 @@ A document attempting to capture the feel of the middle 3 mainline games (Dagger
 
 There's actually two resources provided by the community for you to use for roleplaying in the wasteland. Courtesy of Baragei and Givet on the _Mythras_ Discord.
 
-| Links | [Givet:GDrive](https://drive.google.com/drive/folders/1bsr1Bj2mdV2i9luzIX6-7oVu7H3SxGqD) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Mythras_Elder_Scrolls_Conversion_v1.pdf">Baragei:PDF<a/> | [Discord](https://discord.com/channels/469341944888164352/1236686593885081641) |
+| Links | [Givet:GDrive](https://drive.google.com/drive/folders/1bsr1Bj2mdV2i9luzIX6-7oVu7H3SxGqD) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Fallout.pdf">Baragei:PDF<a/> | [Discord](https://discord.com/channels/469341944888164352/1236686593885081641) |
 | :-- | :-- | :-- | :-- |
 
 #### The Witcher
