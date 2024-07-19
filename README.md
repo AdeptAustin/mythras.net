@@ -1,4 +1,4 @@
-# Mythras Publications and Links
+# Welcome to Mythras
 
 ---
 ## Introduction 
