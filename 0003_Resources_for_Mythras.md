@@ -75,6 +75,14 @@ A useful reference for character creation; especially when using pen and paper.
 
 ### Community
 
+#### Hannu's Starter Resources for Players
+
+"Here is a starter set of resources for a Mythras Player (not the GM). This is a subset of all resources available at NotesFromPavis blog plus additional cheatsheet by Duke Herb that I find useful" -Hannu
+
+| Links | [NFP](https://notesfrompavis.blog/2024/07/22/starter-resources-summary-for-mythras-player/) |
+| :-- | :-- |
+
+
 #### Fancy Auto Calculating Character Sheet
 
 A Google Sheet with fancy automation. Not sure who made it, but god bless. It's radical. Just make a copy and go to town. Excel file linked below incase the sheet ever goes down.
