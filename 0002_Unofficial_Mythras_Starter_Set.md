@@ -75,6 +75,14 @@ A tool that allows gamemasters to quickly define, maintain and generate groups o
 | Links | [MEG](https://mythras.skoll.xyz/instructions/) |
 | :-- | :-- |
 
+#### Iconic Classic Fantasy Characters
+
+"Throughout the new edition of _Classic Fantasy_ can be found numerous examples, each featuring a number of iconic characters. These characters belong to the players in my long standing group and have been around since even before the early BRP version of the game. I have uploaded beginning versions of each, at Rank 1 and ready to start out on their quest for adventure. Feel free to use them in pick-up games at conventions, as NPCs, or even player characters in your own campaigns. All I ask is that you keep me updated on their fates."
+-Rodney Leary (Author of Classic Fantasy)
+
+| Links | [Direct](https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Iconics_rev.1.pdf) |
+| :-- | :-- |
+
 ### Adventures
 
 ---
