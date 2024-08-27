@@ -51,9 +51,14 @@ A tool that allows gamemasters to quickly define, maintain and generate groups o
 
 A sheet full of quick references from situational modifiers to falling damage. Huge thanks to Duke Herb on the _Mythras_ Discord.
 
-https://drive.google.com/file/d/1f5FVPO4t0ZGYLbax81SUSwnVnfk7GrKz/view?usp=sharing
-
 | Links | [GDrive](https://drive.google.com/file/d/1f5FVPO4t0ZGYLbax81SUSwnVnfk7GrKz/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Cheat_Sheet.pdf">PDF<a/> |
+| :-- | :-- | :-- |
+
+#### Special Effects Summary
+
+A reference sheet for special effects organized by offensive/defensive use with shorthand descriptions. Once again, massive ups to Duke Herb on the Discord
+
+| Links | [GDrive](https://drive.google.com/file/d/1fG-piDQxn1dmAMFaeQ0kyDA2JRK39LNK/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Special_Effects.pdf">PDF<a/> |
 | :-- | :-- | :-- |
 
 ---
@@ -110,7 +115,12 @@ Google Sheets with fancy automation. One for the skill pyramid character buildin
 
 A sheet full of quick references from situational modifiers to falling damage. Huge thanks to Duke Herb on the _Mythras_ Discord.
 
-https://drive.google.com/file/d/1f5FVPO4t0ZGYLbax81SUSwnVnfk7GrKz/view?usp=sharing
-
 | Links | [GDrive](https://drive.google.com/file/d/1f5FVPO4t0ZGYLbax81SUSwnVnfk7GrKz/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Cheat_Sheet.pdf">PDF<a/> |
+| :-- | :-- | :-- |
+
+#### Special Effects Summary
+
+A reference sheet for special effects organized by offensive/defensive use with shorthand descriptions. Once again, massive ups to Duke Herb on the Discord
+
+| Links | [GDrive](https://drive.google.com/file/d/1fG-piDQxn1dmAMFaeQ0kyDA2JRK39LNK/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Special_Effects.pdf">PDF<a/> |
 | :-- | :-- | :-- |
