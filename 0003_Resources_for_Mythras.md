@@ -45,6 +45,13 @@ A tool that allows gamemasters to quickly define, maintain and generate groups o
 | Links | [MEG](https://mythras.skoll.xyz/instructions/) |
 | :-- | :-- |
 
+#### Combat Tracker Template
+
+Sometimes it can be messy to remember when the stun location ends for npc #4. Here is a more structured approach that might help.
+
+| Links | [NFP](https://notesfrompavis.blog/2024/08/26/combat-tracker-template-for-mythras/) |
+| :-- | :-- |
+
 ### Community
 
 #### Cheat Sheet
