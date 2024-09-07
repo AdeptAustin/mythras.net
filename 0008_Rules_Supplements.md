@@ -54,3 +54,17 @@ The _Classic Fantasy Expert Set_ is an expansion containing a selection of high 
 
 | Links | [TDM](https://thedesignmechanism.com/classic-fantasy-expert-set-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/200714/classic-fantasy-expert-set-tdm501) |
 | :-- | :-- | :-- |
+
+---
+## Lyonesse
+
+#### Rogues, Rascals, and Rapscallions
+
+Everyone loves a good villain, and the Elder Isles are full of them. 
+
+_Rogues, Rascals, and Rapscallions_ is a resource to the beleaguered Games Master. It has a cornucopia of criminals, a superfluity of scoundrels, a mass of miscreants, and a surfeit of scallywags. The book is divided into five chapters, respectively covering ne'er-do-wells, cults, societies, places, and schemes, each accompanied by multiple stories that can embroil the characters in villainy, either as victims, witnesses, investigators or – heavens forfend! – perpetrators.
+
+Packed full of scenario ideas, intriguing encounters, nefarious nemeses, and exotic locales, Rogues, Rascals and Rapscallions is a must for any campaign, be it Lyonesse or some other fine setting.
+
+| Links | [TDM](https://thedesignmechanism.com/rogues-rascals-and-rapscallions-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/494087/rogues-rascals-and-rapscallions) |
+| :-- | :-- | :-- |
