@@ -10,7 +10,7 @@
 
 A very short scenario designed to introduce those brand new to roleplaying to Mythras with a programmed adventure using simplified, pre-generated characters.
 
-| Links | [TDM](https://thedesignmechanism.com/shrine-of-the-traitor-gods/) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confirm-Download-Paths/Downloads/Shrine_of_the_Traitor_Gods.zip) |
+| Links | [TDM](https://thedesignmechanism.com/shrine-of-the-traitor-gods/) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Shrine_of_the_Traitor_Gods.zip) |
 | :-- | :-- | :-- |
 
 #### Sariniya's Curse
@@ -19,7 +19,7 @@ A free introductory adventure for _Mythras_.
 
 When Trimostones the Gold, the most successful merchant of _Meeros_, assembles a crew to sail to the remote isle Iaxos, he needs brave adventurers to sail with him. But what are his motives for this voyage? And what does it have to do with an ancient curse tied to the city?
 
-| Links | [TDM](https://thedesignmechanism.com/sariniya-s-curse/) | [DTRPG](https://preview.drivethrurpg.com/en/product/131172/sariniya-s-curse) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confirm-Download-Paths/Downloads/Sariniyas_Curse_220123_copy.pdf) |
+| Links | [TDM](https://thedesignmechanism.com/sariniya-s-curse/) | [DTRPG](https://preview.drivethrurpg.com/en/product/131172/sariniya-s-curse) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Sariniyas_Curse_220123_copy.pdf) |
 | :-- | :-- | :-- | :-- |
 
 #### Meeros Falling
@@ -28,7 +28,7 @@ This adventure is found in the Games Master's Pack
 
 This is an introductory _Mythras_ scenario set in the city-state of _Meeros_. It follows on directly from Anathaym’s trial and betrayal at the hands of Misogynistes and involves the characters in the aftermath of the terrible earthquake that struck the city.
 
-| Links | [TDM](https://thedesignmechanism.com/mythras-games-masters-pack/) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confirm-Download-Paths/Downloads/Mythras_Games_Masters_Pack.pdf) |
+| Links | [TDM](https://thedesignmechanism.com/mythras-games-masters-pack/) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythras_Games_Masters_Pack.pdf) |
 | :-- | :-- | :-- |
 
 #### Meeros Doomed
@@ -75,7 +75,7 @@ _Mythic Britain_ is a complete sourcebook for adventuring in Britain’s Dark Ag
 
 This is a preview of the _Mythras_ supplement _Mythic Britain_ - a complete scenario taken from the campaign section of the book.
 
-| Links | [DTRPG](https://www.drivethrurpg.com/en/product/137001/mythic-britain-preview-caves-of-the-circind) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confirm-Download-Paths/Downloads/Caves_of_the_Circind.pdf) |
+| Links | [DTRPG](https://www.drivethrurpg.com/en/product/137001/mythic-britain-preview-caves-of-the-circind) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Caves_of_the_Circind.pdf) |
 | :-- | :-- | :-- |
 
 #### Mythic Britain Companion
@@ -124,7 +124,7 @@ _Mythic Rome_ delves into the birth and fall of the Roman Republic, covering eve
 
 These are the two city maps from _Mythic Rome_, available in A3 size and full colour. They're free to download or for a modest doantion.
 
-| Links | [DTRPG](https://www.drivethrurpg.com/en/product/194871/mythic-rome-maps) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confirm-Download-Paths/Downloads/Mythic_Rome_Maps.pdf)
+| Links | [DTRPG](https://www.drivethrurpg.com/en/product/194871/mythic-rome-maps) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythic_Rome_Maps.pdf)
 | :-- | :-- | :-- |
 
 </details>
@@ -210,7 +210,7 @@ _Mythic Polynesia_ immerses players in the vibrant world of the Great Ocean. Thi
 
 An intro to the _Thennla_ setting; a magic-rich world of high adventure, with the flavours of classical Greece, Rome, Persia and Byzantium.
 
-| Links | [TDM](https://thedesignmechanism.com/world-of-thennla-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/192774/thennla) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confirm-Download-Paths/Downloads/Thennla.pdf) |
+| Links | [TDM](https://thedesignmechanism.com/world-of-thennla-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/192774/thennla) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Thennla.pdf) |
 | :-- | :-- | :-- | :-- |
 
 #### Shore of Korantia
