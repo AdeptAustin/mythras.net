@@ -165,14 +165,14 @@ A free introductory adventure for _Mythras_.
 
 When Trimostones the Gold, the most successful merchant of _Meeros_, assembles a crew to sail to the remote isle Iaxos, he needs brave adventurers to sail with him. But what are his motives for this voyage? And what does it have to do with an ancient curse tied to the city?
 
-| Links | [TDM](https://thedesignmechanism.com/sariniya-s-curse/) | [DTRPG](https://preview.drivethrurpg.com/en/product/131172/sariniya-s-curse) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confrim-Download-Paths/Downloads/Sariniyas_Curse_220123_copy.pdf) |
+| Links | [TDM](https://thedesignmechanism.com/sariniya-s-curse/) | [DTRPG](https://preview.drivethrurpg.com/en/product/131172/sariniya-s-curse) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confirm-Download-Paths/Downloads/Sariniyas_Curse_220123_copy.pdf) |
 | :-- | :-- | :-- | :-- |
 
 #### Shrine of the Traitor Gods
 
 A very short scenario designed to introduce those brand new to roleplaying to Mythras with a programmed adventure using simplified, pre-generated characters.
 
-| Links | [TDM](https://thedesignmechanism.com/shrine-of-the-traitor-gods/) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confrim-Download-Paths/Downloads/Shrine_of_the_Traitor_Gods.zip) |
+| Links | [TDM](https://thedesignmechanism.com/shrine-of-the-traitor-gods/) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confirm-Download-Paths/Downloads/Shrine_of_the_Traitor_Gods.zip) |
 | :-- | :-- | :-- |
 
 #### The Curse of Triton

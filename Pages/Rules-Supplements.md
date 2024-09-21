@@ -21,7 +21,7 @@ _Ships & Shield Walls_ is a _Mythras_ supplement and rules expansion that introd
 
 Rules for all kinds of firearms for _Mythras_: muskets and bolt action rifles, through to modern machine weapons, and even weapons for Science Fiction settings, such as lasers and blasters. Also introduces new combat options and Special Effects.
 
-| Links | [TDM](https://thedesignmechanism.com/mythras-firearms-pdf-/) | [DTRPG](https://www.drivethrurpg.com/en/product/105453/mythras-firearms) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confrim-Download-Paths/Downloads/Mythras_Firearms.pdf) |
+| Links | [TDM](https://thedesignmechanism.com/mythras-firearms-pdf-/) | [DTRPG](https://www.drivethrurpg.com/en/product/105453/mythras-firearms) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confirm-Download-Paths/Downloads/Mythras_Firearms.pdf) |
 | :-- | :-- | :-- | :-- |
 
 #### Mythras Factions
@@ -42,7 +42,7 @@ The Fenix Papers collects a diverse array of articles, all penned by Pete Nash, 
 
 The winner of Design Mechanism's competition to create a phoenix using the Mythras rules, Darvin Martin's entry is wonderfully creative, mixing myth, rules and game play. Not only does Darvin get the three volumes of 'Best of Fenix', we also decided to lay-out and make available his entry.
 
-| Links | [DTRPG](https://www.drivethrurpg.com/en/product/156347/the-phoenix) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confrim-Download-Paths/Downloads/Mythras_Firearms.pdf) |
+| Links | [DTRPG](https://www.drivethrurpg.com/en/product/156347/the-phoenix) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confirm-Download-Paths/Downloads/Mythras_Firearms.pdf) |
 | :-- | :-- | :-- |
 
 ---
