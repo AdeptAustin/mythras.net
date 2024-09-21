@@ -58,14 +58,14 @@ Sometimes it can be messy to remember when the stun location ends for npc #4. He
 
 A sheet full of quick references from situational modifiers to falling damage. Huge thanks to Duke Herb on the _Mythras_ Discord.
 
-| Links | [GDrive](https://drive.google.com/file/d/1f5FVPO4t0ZGYLbax81SUSwnVnfk7GrKz/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Cheat_Sheet.pdf">PDF<a/> |
+| Links | [GDrive](https://drive.google.com/file/d/1f5FVPO4t0ZGYLbax81SUSwnVnfk7GrKz/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Cheat_Sheet.pdf">PDF<a/> |
 | :-- | :-- | :-- |
 
 #### Special Effects Summary
 
 A reference sheet for special effects organized by offensive/defensive use with shorthand descriptions. Once again, massive ups to Duke Herb on the Discord
 
-| Links | [GDrive](https://drive.google.com/file/d/1fG-piDQxn1dmAMFaeQ0kyDA2JRK39LNK/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Special_Effects.pdf">PDF<a/> |
+| Links | [GDrive](https://drive.google.com/file/d/1fG-piDQxn1dmAMFaeQ0kyDA2JRK39LNK/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Special_Effects.pdf">PDF<a/> |
 | :-- | :-- | :-- |
 
 ---
@@ -99,14 +99,14 @@ A useful reference for character creation; especially when using pen and paper.
 
 A Google Sheet with fancy automation. Not sure who made it, but god bless. It's radical. Just make a copy and go to town. Excel file linked below incase the sheet ever goes down.
 
-| Links | [GSheet](https://docs.google.com/spreadsheets/d/1Jq63xSupyvwZeH5nWtcViNrzLQd_L7Y3kj_9-uncxvQ/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/FANCY_Mythras_Autocalculating_Sheet_Updated_9-7-2024.xlsx">Excel<a/> |
+| Links | [GSheet](https://docs.google.com/spreadsheets/d/1Jq63xSupyvwZeH5nWtcViNrzLQd_L7Y3kj_9-uncxvQ/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/FANCY_Mythras_Autocalculating_Sheet_Updated_9-21-2024.xlsx">Excel<a/> |
 | :-- | :-- | :-- |
 
 #### Basic Auto Calculating Character Sheet
 
 A Google Sheet with fancy automation, but a more basic coat of paint. Just make a copy and go to town. Excel file linked below incase the sheet ever goes down.
 
-| Links | [GSheet](https://docs.google.com/spreadsheets/d/1oH6Q-Xj2Tr2yxkWvsWnM3QFVPZWxQHy1BVniN02MCRM/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/BASIC_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx">Excel<a/> |
+| Links | [GSheet](https://docs.google.com/spreadsheets/d/1oH6Q-Xj2Tr2yxkWvsWnM3QFVPZWxQHy1BVniN02MCRM/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/downliads/BASIC_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx">Excel<a/> |
 | :-- | :-- | :-- |
 
 #### Destined Auto Calculating Character Sheets
@@ -116,18 +116,18 @@ Google Sheets with fancy automation. One for the skill pyramid character buildin
 | Links | Skill Pyramid | Core |
 | :-- | :-- | :-- |
 | Google | [Gsheet](https://docs.google.com/spreadsheets/d/1U4ngUX5gB70_YAPJQV5GtwD204RkdoihrXkQIyaP8wo/edit?usp=sharing) | [Gsheet](https://docs.google.com/spreadsheets/d/17zn0TBLOVn7ZJ0LsBqd0DjD7_jk9170qvNbF9tfQ8pE/edit?usp=sharing) |
-| Microsoft | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Destined_Autocalculating_Sheet_-_Skill_Pyramid_Version.xlsx">Excel<a/> | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Destined_Autocalculating_Sheet.xlsx">Excel<a/> |
+| Microsoft | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Destined_Autocalculating_Sheet_-_Skill_Pyramid_Version.xlsx">Excel<a/> | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Destined_Autocalculating_Sheet.xlsx">Excel<a/> |
 
 #### Cheat Sheet
 
 A sheet full of quick references from situational modifiers to falling damage. Huge thanks to Duke Herb on the _Mythras_ Discord.
 
-| Links | [GDrive](https://drive.google.com/file/d/1f5FVPO4t0ZGYLbax81SUSwnVnfk7GrKz/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Cheat_Sheet.pdf">PDF<a/> |
+| Links | [GDrive](https://drive.google.com/file/d/1f5FVPO4t0ZGYLbax81SUSwnVnfk7GrKz/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Cheat_Sheet.pdf">PDF<a/> |
 | :-- | :-- | :-- |
 
 #### Special Effects Summary
 
 A reference sheet for special effects organized by offensive/defensive use with shorthand descriptions. Once again, massive ups to Duke Herb on the Discord
 
-| Links | [GDrive](https://drive.google.com/file/d/1fG-piDQxn1dmAMFaeQ0kyDA2JRK39LNK/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Special_Effects.pdf">PDF<a/> |
+| Links | [GDrive](https://drive.google.com/file/d/1fG-piDQxn1dmAMFaeQ0kyDA2JRK39LNK/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Special_Effects.pdf">PDF<a/> |
 | :-- | :-- | :-- |
