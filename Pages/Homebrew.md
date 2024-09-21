@@ -12,7 +12,7 @@ The homebrews on this page as well as many more that are more of a work in progr
 
 In this streamlined version of the combat rules, combat occurs within a single Round, eliminating sub-round cycles. Defensive Special Effects play a more significant role, and instances of “Draw” results, where nothing happens to combatants, are reduced. AP and initiative advantages are minimized, movement is simplified, and ranged combat is brought on par with melee. Brought to you by Bilharzia on the _Mythras_ Discord.
 
-| Links | [GDoc](https://docs.google.com/document/d/1ZiQ67dDCGsjxcgg-Sc3j_FizUDQIXLMAHjw6lycSXbA/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/MythWrack_5d.docx">Word<a/> |
+| Links | [GDoc](https://docs.google.com/document/d/1ZiQ67dDCGsjxcgg-Sc3j_FizUDQIXLMAHjw6lycSXbA/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confrim-Download-Paths/Downloads/MythWrack_5d.docx">Word<a/> |
 | :-- | :-- | :-- |
 
 
@@ -30,20 +30,20 @@ A document attempting to capture the feel of the middle 3 mainline games (Dagger
 
 There's actually two resources provided by the community for you to use for roleplaying in the wasteland. Courtesy of Baragei and Givet on the _Mythras_ Discord.
 
-| Links | [Givet:GDrive](https://drive.google.com/drive/folders/1bsr1Bj2mdV2i9luzIX6-7oVu7H3SxGqD) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Fallout.pdf">Baragei:PDF<a/> | [Discord](https://discord.com/channels/469341944888164352/1236686593885081641) |
+| Links | [Givet:GDrive](https://drive.google.com/drive/folders/1bsr1Bj2mdV2i9luzIX6-7oVu7H3SxGqD) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confrim-Download-Paths/Downloads/Fallout.pdf">Baragei:PDF<a/> | [Discord](https://discord.com/channels/469341944888164352/1236686593885081641) |
 | :-- | :-- | :-- | :-- |
 
 #### The Witcher
 Useful for those interesting in exploring the Northern Realms. An attempt was made to remain faithful to the chosen source material as well as some ispiration from the video games. Credit to Fellblade on the _Mythras_ Discord.
 
-| Links | [GDoc](https://docs.google.com/document/d/13xSpg6gfIE39f8dJC_DkEwB_S6Cp4BBUM3qUbWUxsfY) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Witchers_and_Witcher's_Bestiary_in_Mythras.docx">Word<a/> | [Discord](https://discord.com/channels/469341944888164352/1234154401858588672) |
+| Links | [GDoc](https://docs.google.com/document/d/13xSpg6gfIE39f8dJC_DkEwB_S6Cp4BBUM3qUbWUxsfY) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confrim-Download-Paths/Downloads/Witchers_and_Witcher's_Bestiary_in_Mythras.docx">Word<a/> | [Discord](https://discord.com/channels/469341944888164352/1234154401858588672) |
 | :-- | :-- | :-- | :-- |
 
 #### Star Wars
 
 Commonly referred to as the Forbidden Supplement, this can be a solid starting point to adventuring in a galaxy far away.
 
-| Links | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/StarWars.pdf">PDF<a/> |
+| Links | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confrim-Download-Paths/Downloads/StarWars.pdf">PDF<a/> |
 | :-- | :-- |
 
 ---
@@ -53,7 +53,7 @@ Commonly referred to as the Forbidden Supplement, this can be a solid starting p
 
 Mythras in the Grim Darkness of the 41st Millennium. This is a homebrew document for running a Warhammer 40,000 RPG in the Mythras system, mainly by converting appropriate Fantasy Flight Games / Cubicle 7 RPG content into Mythras. Special thanks to Vasillis on the _Mythras_ Discord.
 
-| Links | [GDoc](https://docs.google.com/document/d/1E9kTUZl0Y1ABF1CzTNbmu6QhHUmMbjw6bS0v0UCgslU/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras-publications-and-links/raw/main/Mythammer_40,000_Core.docx">Word<a/> | [Discord](https://discord.com/channels/469341944888164352/1230742960010690581) |
+| Links | [GDoc](https://docs.google.com/document/d/1E9kTUZl0Y1ABF1CzTNbmu6QhHUmMbjw6bS0v0UCgslU/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/Confrim-Download-Paths/Downloads/Mythammer_40,000_Core.docx">Word<a/> | [Discord](https://discord.com/channels/469341944888164352/1230742960010690581) |
 | :-- | :-- | :-- | :-- |
 
 #### Dragonlance
