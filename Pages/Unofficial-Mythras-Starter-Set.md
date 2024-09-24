@@ -12,15 +12,15 @@ Learn more about the different rulesets [here](Pages\Rulesets.md)
 
 An 80 page ORC-licensed version of the core system, includes char-gen, combat, Folk Magic & Superpowers and vehicles. Don't think that this is just a cut down version of the rules. There's a lot in here that can be used to run Mythras in almost any setting. The community has helpfully placed the entire thing online for easy access.
 
-| Links | [SRD](https://srd.mythras.net/) | [TDM](https://thedesignmechanism.com/mythras-imperative/) | [DTRPG](https://preview.drivethrurpg.com/en/product/185299/mythras-imperative) |
-| :-- | :-- | :-- | :-- |
+| Links | [SRD](https://srd.mythras.net/) | [TDM](https://thedesignmechanism.com/mythras-imperative/) | [DTRPG](https://preview.drivethrurpg.com/en/product/185299/mythras-imperative) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/TDMORC002_Mythras_Imperative_071223.pdf) |
+| :-- | :-- | :-- | :-- | :-- |
 
 #### Game Master's Pack
 
 Filled with charts & tables from the _Core Rulebook_ as well as two adventures (one in the _Meeros_ setting).
 
-| Links | [TDM](https://thedesignmechanism.com/mythras-games-masters-pack/) |
-| :-- | :-- |
+| Links | [TDM](https://thedesignmechanism.com/mythras-games-masters-pack/) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythras_Games_Masters_Pack.pdf) |
+| :-- | :-- | :-- |
 
 #### Mythras Encouter Generator (MEG)
 
@@ -35,22 +35,22 @@ A tool that allows gamemasters to quickly define, maintain and generate groups o
 
 A short scenario designed to introduce those brand new to roleplaying to _Mythras_. This is set in the _Meeros_ setting which, while not a default setting, is used extensively in examples in the core rulebook. Use the pre-generated Characters included with the scenario and the included basic rules to get used to the system.
 
-| Links | [TDM](https://thedesignmechanism.com/shrine-of-the-traitor-gods/) |
-| :-- | :-- |
+| Links | [TDM](https://thedesignmechanism.com/shrine-of-the-traitor-gods/) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Shrine_of_the_Traitor_Gods.zip) |
+| :-- | :-- | :-- |
 
 #### Sariniya's Curse
 
 Another adventure with pre-generated characters in the Meeros setting. This one's a little longer and more difficult. Play this one using the _Mythras Imperative_ or the _Mythras_ Core rules. Either way, continue using the pregenerated characters as everyone gets comfortable with the expanded rules compared to the basic ones in _Shrine of the Traitor Gods_.
 
-| Links | [TDM](https://thedesignmechanism.com/sariniya-s-curse/) | [DTRPG](https://preview.drivethrurpg.com/en/product/131172/sariniya-s-curse) |
-| :-- | :-- | :-- |
+| Links | [TDM](https://thedesignmechanism.com/sariniya-s-curse/) | [DTRPG](https://preview.drivethrurpg.com/en/product/131172/sariniya-s-curse) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Sariniyas_Curse_220123_copy.pdf) |
+| :-- | :-- | :-- | :-- |
 
 #### Meeros Falling
 
 Another adventure set in the _Meeros_ setting following the events in the Core Rules. This is a great adventure for player’s to finally create their own characters and even interact with some characters they may have played before.
 
-| Links | [TDM](https://thedesignmechanism.com/mythras-games-masters-pack/) |
-| :-- | :-- |
+| Links | [TDM](https://thedesignmechanism.com/mythras-games-masters-pack/) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythras_Games_Masters_Pack.pdf) |
+| :-- | :-- | :-- |
 
 ---
 ## Classic Fantasy
@@ -64,8 +64,8 @@ Learn more about the different rulesets [here](Pages\Rulesets.md)
 
 A shockingly complete, 155 page, ORC-licensed version of the _Classic Fantasy_ system, includes char-gen, combat, magic, creatures, and treasure. The community has helpfully placed the entire thing online for easy access.
 
-| Links | [SRD](https://cfi-srd.mythras.net/) | [TDM](https://thedesignmechanism.com/classic-fantasy-imperative-pdf/) | [DTRPG](https://preview.drivethrurpg.com/en/product/449976/classic-fantasy-imperative) |
-| :-- | :-- | :-- | :-- |
+| Links | [SRD](https://cfi-srd.mythras.net/) | [TDM](https://thedesignmechanism.com/classic-fantasy-imperative-pdf/) | [DTRPG](https://preview.drivethrurpg.com/en/product/449976/classic-fantasy-imperative) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/TDMORC001_Classic_Fantasy_Imperative_130923.pdf) |
+| :-- | :-- | :-- | :-- | :-- |
 
 
 #### Mythras Encouter Generator (MEG)
