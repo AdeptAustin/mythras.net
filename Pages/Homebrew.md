@@ -41,10 +41,10 @@ Useful for those interesting in exploring the Northern Realms. An attempt was ma
 
 #### Star Wars
 
-Commonly referred to as the Forbidden Supplement, this can be a solid starting point to adventuring in a galaxy far away.
+Commonly referred to as the Forbidden Supplement, this can be a solid starting point to adventuring in a galaxy far away. There's also Robert on Discord's Mythic Start Wars adapted from "The Forbidden Supplement"
 
-| Links | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/StarWars.pdf">PDF<a/> |
-| :-- | :-- |
+| Links | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/StarWars.pdf">PDF<a/> | [Robert's](https://mythic-star-wars.imminentdoom.com/) |
+| :-- | :-- | :-- |
 
 ---
 ## Conversions
