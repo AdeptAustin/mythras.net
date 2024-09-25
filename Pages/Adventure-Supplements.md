@@ -3,7 +3,7 @@
 ---
 ## Adventure Collections
 
-<details>
+<details open>
 <summary>Collections of adventures useful to sprinkle into any campaign</summary>
 
 #### Book of Quests
@@ -40,12 +40,12 @@ _Brace Yourself!_ is the third installment in the _Mythras_ Combat Module series
 ---
 ## Adventure Modules
 
-<details>
+<details open>
 <summary>Single drop-in adventures</summary>
 
 ### Core
 
-<details>
+<details open>
 <summary>All adventures designed with the core rules in mind. Many of which are also shown with their settings in <a href="/Pages/Settings.md">Settings</a></summary>
 
 #### White Death
@@ -197,7 +197,7 @@ _Gwynedd_ describes the clans, cabals, and coteries vying for Gwynedd’s throne
 
 ### Classic Fantasy
 
-<details>
+<details open>
 <summary>Adventures written with <i>Classic Fantasy</i> in mind</summary>
 
 #### The Lonely Lighthouse
@@ -260,7 +260,7 @@ _The Temple of Set_ is an adventure for experienced Rank 5 _Mythras_ _Classic Fa
 
 ### Destined
 
-<details>
+<details open>
 <summary>Superhero adventures</summary>
 
 #### Agony & Ecstasy
@@ -281,7 +281,7 @@ _Power Outage_ is an adventure for _Destined_, a game of super-powered role-play
 
 ### Lyonesse
 
-<details>
+<details open>
 <summary>Adventures set in Jack Vance's world</summary>
 
 #### Coddefut's Stipule

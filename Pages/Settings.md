@@ -3,7 +3,7 @@
 ---
 ## Meeros
 
-<details>
+<details open>
 <summary>While <i>Mythras</i> doesn't have a default setting, the closest thing is probably <i>Meeros</i>. It's the setting used in the core rulebook to describe many situations and provide examples of the rules in play.</summary>
 
 #### Shrine of the Traitor Gods
@@ -56,12 +56,12 @@ Xamoxis' Cleansing is a Mythras scenario for 4-6 characters who are competent in
 ---
 ## Mythic Earth
 
-<details>
+<details open>
 <summary>The <i>Mythic Earth</i> Series from <i>The Design Mechanism</i> explores alternative histories infused with magic and monsters. These supplements provide intricate details about historical periods, cultures, and mysteries. They offer rich roleplaying experiences within familiar yet fantastical settings.</summary>
 
 ### Mythic Britain
 
-<details>
+<details open>
 <summary>Britain in the dark ages</summary>
 
 #### Mythic Britain
@@ -110,7 +110,7 @@ _Gwynedd_ describes the clans, cabals, and coteries vying for Gwynedd’s throne
 
 ### Mythic Rome
 
-<details>
+<details open>
 <summary>Ancient Rome from beginning to end</summary>
 
 #### Mythic Rome
@@ -131,7 +131,7 @@ These are the two city maps from _Mythic Rome_, available in A3 size and full co
 
 ### Mythic Constantinople
 
-<details>
+<details open>
 <summary>The crossroads of the world</summary>
 
 #### Mythic Constatinople
@@ -166,7 +166,7 @@ This pack contains large-scale versions of the City & Districts map, European Em
 
 ### Mythic Babylon
 
-<details>
+<details open>
 <summary>Ancient Mesopotamia</summary>
 
 #### Mythic Babylon
@@ -187,7 +187,7 @@ This supplement for Mythic Babylon provides a complete set of regional, trade an
 
 ### Mythic Polynesia
 
-<details>
+<details open>
 <summary>Myths of the Pacific</summary>
 
 #### Mythic Polynesia
@@ -203,7 +203,7 @@ _Mythic Polynesia_ immerses players in the vibrant world of the Great Ocean. Thi
 ---
 ## Thennla
 
-<details>
+<details open>
 <summary><i>Thennla</i> is a flexible magic rich setting ripe for Game Master inovation</summary>
 
 #### Thennla
@@ -253,7 +253,7 @@ _Khakun Shrugs_ is an epic quest set in the world of _Thennla_. In this adventur
 ---
 ## Luther Arkwright
 
-<details>
+<details open>
 <summary>Multiversal, science fiction shenanigens with a distict British charm</summary>
 
 #### Luther Arkwright: Roleplaying Across the Parallels
@@ -275,7 +275,7 @@ _Luther Arkwright: Parallel Lines_ is a _Mythras_ supplement that invites you to
 ---
 ## Worlds United
 
-<details>
+<details open>
 <summary>Golden age science fiction</summary>
 
 #### Worlds United
@@ -290,7 +290,7 @@ _Worlds United_ is a Planetary Romance setting capturing the pulp feel of the Go
 ---
 ## After the Vampire Wars
 
-<details>
+<details open>
 <summary>Contemporary urban fantasy</summary>
 
 
@@ -306,7 +306,7 @@ _After the Vampire Wars_ adapts the _Mythras_ rules to the contemporary era and 
 ---
 ## Monster Island
 
-<details>
+<details open>
 <summary>A landmark supplement for weird fantasy</summary>
 
 #### Monster Island
@@ -335,7 +335,7 @@ _A Bird in the Hand_ is a perilous scenario set in _Monster Island_. In Port Gri
 ---
 ## Fioracitta
 
-<details>
+<details open>
 <summary>Fantasy medieval renaissance</summary>
 
 #### Fioracitta
@@ -354,7 +354,7 @@ For Games Masters, _Fioracitta_ equips you with everything needed to craft adven
 ---
 ## Book of Schemes
 
-<details>
+<details open>
 <summary>Political intrigue in a 15th century city</summary>
 
 #### Book of Schemes
