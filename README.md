@@ -20,3 +20,11 @@ However, 1d100 offers a great deal of flexibility and nuance that underpins the 
 ## Where do I start?
 
 While _Mythras_ is an extremely flexible toolkit, it always helps to start somewhere familiar. To this end, the community has created the [Unofficial Mythras Starter Set](Pages/Unofficial-Mythras-Starter-Set.md) to help new game masters and players get their bearings and start having fun as soon as possible as easily as possible. Be sure to check out the [Resources](Pages/Resources-for-Mythras.md) and [Free Stuff](Pages/Free-Stuff.md) for more support.
+
+---
+## Coming From D&D?
+
+_Dungeon and Dragons_ 5e introduced many people to the hobby. You are one, and have really enjoyed it. But now you want something more. Check out the links below to learn how _Mythras_ is different.
+
+|[Iconic D&D Party, but as Mythras Part 1](https://d100-workshop.blogspot.com/2022/11/iconic-d-party-but-as-mythras-part-1.html) | [Part 2](https://d100-workshop.blogspot.com/2022/11/iconic-d-party-but-as-mythras-part-2.html) | [So you've played a lot of 5e and you want to try Mythras...](https://docs.google.com/document/d/1p7UFiM9PZJqLuEXdztdZo1GBz6bkv2kKQgZqkWnpRu4/edit) | [7 Key Differences Between D&D and Mythras](https://thedesignmechanism.com/blog/7-key-differences-between-dd-and-mythras/) | [7 MORE Key Differences Between D&D and Mythras](https://thedesignmechanism.com/blog/seven-more-key-differences-between-dd-and-mythras/) |
+| :-: | :-: | :-: | :-: | :-: |
