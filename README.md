@@ -19,4 +19,4 @@ However, 1d100 offers a great deal of flexibility and nuance that underpins the 
 ---
 ## Where do I start?
 
-While _Mythras_ is an extremely flexible toolkit, it always helps to start somewhere familiar. To this end, the community has created the [Unofficial Mythras Starter Set](Pages\Unofficial-Mythras-Starter-Set.md) to help new game masters and players get their bearings and start having fun as soon as possible as easily as possible. Be sure to check out the [Resources](Pages\Resources-for-Mythras.md) and [Free Stuff](Pages\Free-Stuff.md) for more support.
+While _Mythras_ is an extremely flexible toolkit, it always helps to start somewhere familiar. To this end, the community has created the [Unofficial Mythras Starter Set](Pages/Unofficial-Mythras-Starter-Set.md) to help new game masters and players get their bearings and start having fun as soon as possible as easily as possible. Be sure to check out the [Resources](Pages/Resources-for-Mythras.md) and [Free Stuff](Pages/Free-Stuff.md) for more support.

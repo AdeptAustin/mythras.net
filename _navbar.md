@@ -1,15 +1,15 @@
 - Getting Started
     - [Introduction](README.md)
-    - [Unofficial Mythras Starter Set](Pages\Unofficial-Mythras-Starter-Set.md)
+    - [Unofficial Mythras Starter Set](Pages/Unofficial-Mythras-Starter-Set.md)
 - Helpful Links
-    - [Resources For Mythras](Pages\Resources-for-Mythras.md)
-    - [Free Stuff](Pages\Free-Stuff.md)
-    - [SRDs](Pages\SRDs.md)
+    - [Resources For Mythras](Pages/Resources-for-Mythras.md)
+    - [Free Stuff](Pages/Free-Stuff.md)
+    - [SRDs](Pages/SRDs.md)
 - Publications
-    - [Settings](Pages\Settings.md)
-    - [Rulesets](Pages\Rulesets.md)
-    - [Rules Supplements](Pages\Rules-Supplements.md)
-    - [Adventure Supplements](Pages\Adventure-Supplements.md)
+    - [Settings](Pages/Settings.md)
+    - [Rulesets](Pages/Rulesets.md)
+    - [Rules Supplements](Pages/Rules-Supplements.md)
+    - [Adventure Supplements](Pages/Adventure-Supplements.md)
 - Publisher
     - [TDM Website](https://thedesignmechanism.com/)
     - [TDM DTRPG](https://www.drivethrurpg.com/en/publisher/4057/design-mechanism)

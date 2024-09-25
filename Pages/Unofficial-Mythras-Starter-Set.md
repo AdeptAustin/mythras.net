@@ -5,7 +5,7 @@
 
 Core _Mythras_ is just that, the core. One of the most flexible and rewarding systems out there, we can't wait for you to get started. This is a starter set for core _Mythras_. Everything here is completely free.
 
-Learn more about the different rulesets [here](Pages\Rulesets.md)
+Learn more about the different rulesets [here](Pages/Rulesets.md)
 ### Rules
 
 #### Mythras Imperative
@@ -57,7 +57,7 @@ Another adventure set in the _Meeros_ setting following the events in the Core R
 
 _Classic Fantasy_ brings Old School dungeon crawls to the _Mythras_ rules. If you've ever wanted to convert those old dungeon modules to a d100 system, then _Classic Fantasy_ is for you. This is a WIP starter set for _Classic Fantasy_.
 
-Learn more about the different rulesets [here](Pages\Rulesets.md)
+Learn more about the different rulesets [here](Pages/Rulesets.md)
 ### Rules
 
 #### Classic Fantasy Imperative
@@ -92,11 +92,11 @@ Nothing Free as of yet.
 
 _Destined_ brings Superheros and villains to the _Mythras_ rules. This is a WIP starter set for _Destined_.
 
-Learn more about the different rulesets [here](Pages\Rulesets.md)
+Learn more about the different rulesets [here](Pages/Rulesets.md)
 
 ---
 ## Lyonesse
 
 _Lyonesse_ brings Jack Vance's world to life with the _Mythras_ rules. This is a WIP starter set for _Lyonesse_.
 
-Learn more about the different rulesets [here](Pages\Rulesets.md)
+Learn more about the different rulesets [here](Pages/Rulesets.md)
