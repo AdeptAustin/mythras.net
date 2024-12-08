@@ -50,7 +50,7 @@ _Brace Yourself!_ is the third installment in the _Mythras_ Combat Module series
 
 #### White Death
 
-_White Death_ is a complete scenario for _Mythras Imperative_ and _Mythras_. Compatible with supplements such as _Luther Arkwright_, the adventure is a Science Fiction and Espionage thriller in the B movie style. It immerses characters in the perilous realm of an insane sorcerer and those who still revere him. As they delve into the mystery of the Sool Statuettes and their enigmatic creator, they’ll confront a myriad of horrors. The scenario caters to 4-6 competent and strong-willed characters and includes 6 pregenerated Agency personnel for immediate play, along with rules for handling insanity in _Mythras_ games
+_White Death_ is a complete scenario for _Mythras Imperative_ and _Mythras_. Compatible with supplements such as _Luther Arkwright_, the adventure is a Science Fiction and Espionage thriller in the B movie style. A Soviet drift station in the Arctic ocean, seemingly abandoned. The Agency wants to know what the Russians were doing there and why it was so abruptly vacated. It has assembled a team to investigate; to uncover whatever it was the Soviet Union was using the station for. But what the agents find might not be what they were expecting. And what's more, the Russians are coming back... White Death also includes 6 pregenerated Agency personnel for immediate play, and rules for handling insanity in Mythras games.
 
 | Links | [TDM](https://thedesignmechanism.com/white-death/) | [DTRPG](https://www.drivethrurpg.com/en/product/224002/white-death) |
 | :-- | :-- | :-- |
