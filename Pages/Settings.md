@@ -255,6 +255,13 @@ Articles focused on how to understand and design quiasi-ancient societies by the
 | Links | [Ancient Fantasy](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Korantine_Rites_-_Part1_Beta.pdf) | [Hard Cash](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Korantine_Rites_-_Part2_Beta.pdf) | [Cities](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Korantine_Rites_part_3_Beta.pdf) | [Farming](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/KORANTINE_RITES_pt_4_beta.pdf) |
 | :-- | :-- | :-- | :-- | :-- |
 
+#### Assabian Rites
+
+Articles focused more on mechanics of sorcery in _Thennla_ by the writer himself, Jonathan Drake. Also included is an article on persuasion as well as the story of how the setting of _Thennla_ came to be.
+
+| Links | [Sorcery](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/ASSABIAN_RITES_ARTICLES_-_PART_ONE.pdf) | [Alchemy](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/ASSABIAN_RITES_ARTICLES_PART_TWO.pdf) | [Enchantment](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/ASSABIAN_RITES_ARTICLES_-_PART_THREE_.pdf) | [Conjuring](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/ASSABIAN_RITES_ARTICLES_-_PART_FOUR_.pdf) |  [Incantations](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Incantations_discussion_document_WIP-1.pdf) | [Persuasion](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/ASSABIAN_RITES_ARTICLES_-_PERSUASION.pdf) | [History](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Assabian_Rites_-_some_author_notes_and_thoughts_on_Thennla.pdf) |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+
 </details>
 
 ---
