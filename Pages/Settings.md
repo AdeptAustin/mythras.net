@@ -248,6 +248,13 @@ _Khakun Shrugs_ is an epic quest set in the world of _Thennla_. In this adventur
 | Links | [TDM](https://thedesignmechanism.com/khakun-shrugs-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/206139/khakun-shrugs) |
 | :-- | :-- | :-- |
 
+#### Korantine Rites
+
+Articles focused on how to understand and design quiasi-ancient societies by the writer of _Thennla_ himself, Jonathan Drake.
+
+| Links | [Ancient Fantasy](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Korantine_Rites_-_Part1_Beta.pdf) | [Hard Cash](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Korantine_Rites_-_Part2_Beta.pdf) | [Cities](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Korantine_Rites_Part_3_Beta.pdf) | [Farming](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/KORANTINE_RITES_pt_4_beta.pdf) |
+| :-- | :-- | :-- | :-- | :-- |
+
 </details>
 
 ---
