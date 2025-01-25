@@ -47,10 +47,14 @@ Another adventure with pre-generated characters in the Meeros setting. This one'
 
 #### Meeros Falling
 
-Another adventure set in the _Meeros_ setting following the events in the Core Rules. This is a great adventure for player’s to finally create their own characters and even interact with some characters they may have played before.
+Another adventure set in the _Meeros_ setting following the events in the Core Rules. This is a great adventure for player’s to finally create their own characters and even interact with some characters they may have played before. It's found on page 3 of the _Mythras Game Master's Pack_
 
 | Links | [TDM](https://thedesignmechanism.com/mythras-games-masters-pack/) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythras_Games_Masters_Pack.pdf) |
 | :-- | :-- | :-- |
+
+#### Now What?
+
+That's the end of the Unofficial Mythras Starter Set, but not the end of your adventures. If you're enjoying Meeros, there's one more adventure written for your consideration. _[Meeros Doomed](https://www.mythras.net/#/Pages/Settings?id=meeros-doomed)_ deals with the consequences of Kara's actions to save her sister. Use the same characters, or create new ones to fit the adventure. Either way, there's tons more of _Mythras_ to explore, experience, and create. Editor's Note: _[Mythic Britain](https://www.mythras.net/#/Pages/Settings?id=mythic-britain)_ is awesome.
 
 ---
 ## Classic Fantasy
