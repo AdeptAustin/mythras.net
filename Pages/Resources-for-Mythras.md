@@ -109,6 +109,13 @@ A Google Sheet with fancy automation, but a more basic coat of paint. Just make 
 | Links | [GSheet](https://docs.google.com/spreadsheets/d/1oH6Q-Xj2Tr2yxkWvsWnM3QFVPZWxQHy1BVniN02MCRM/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/downliads/BASIC_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx">Excel<a/> |
 | :-- | :-- | :-- |
 
+#### Classic Fantasy Auto Calculating Character Sheet
+
+A Google Sheet with fancy automation. Not sure who made it, but my thanks to Red Primus on the Discord server for sharing it. Just make a copy and go to town. Excel file linked below incase the sheet ever goes down.
+
+| Links | [GSheet](https://docs.google.com/spreadsheets/d/1S3-NRhqs1HW3fLxtY7m-zLwXk81zEkSrr_zxuuBw5WQ/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythras_Classic_Fantasy_Character_Sheet.xlsx">Excel<a/> |
+| :-- | :-- | :-- |
+
 #### Destined Auto Calculating Character Sheets
 
 Google Sheets with fancy automation. One for the skill pyramid character building method from _Destined_ and another for the character building rules in _Mythras_ core Just make a copy and go to town. Excel file linked below incase the sheet ever goes down. Everyone give Raleel a big handclap for making these :clap: :clap: :clap:
