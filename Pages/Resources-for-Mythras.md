@@ -9,9 +9,16 @@ These are resources that are not necessarily required for play, but we find them
 
 #### Mythras GM Screen
 
-The Mythras GM Screen contains 16, 11x 8.5" cards featuring artwork and essential tables from the Mythras core rules. Seven of the cards feature cover artwork from Mythras titles and are player-facing, while the remainder contain a variety of tables and charts.
+The _Mythras_ GM Screen contains 16, 11x 8.5" cards featuring artwork and essential tables from the _Mythras_ core rules. Seven of the cards feature cover artwork from Mythras titles and are player-facing, while the remainder contain a variety of tables and charts.
 
 | Links | [TDM](https://thedesignmechanism.com/mythras-gm-screen/) | [DTRPG](https://www.drivethrurpg.com/en/product/254891/mythras-gm-screen) |
+| :-- | :-- | :-- |
+
+#### Mythras Combat App
+
+The _Mythras_ Combat App is a helpful tool developed by Tim Evans for quickly choosing special effects in combat. Includes Special effects for Standard, Spirit, Mass, and Social Combat as well as options from _Destined_. The web version is free, but show Tim some love and buy the app version if you get some use out of it. If you are THE Tim Evans, contact me. (Adept_Austin on the [Discord server](https://dicord.gg/rDH4u7Wkwm))
+
+| Links | [Web](https://www.rpg-time.co.uk/MythrasEffects/#/) | [Google Play](https://play.google.com/store/apps/details?id=org.capacitor.quasar.mythraseffects&pcampaignid=web_share) |
 | :-- | :-- | :-- |
 
 ### Hannu's "Notes from Pavis"
@@ -84,6 +91,13 @@ A useful reference for character creation; especially when using pen and paper.
 
 | Links | [TDM](https://thedesignmechanism.com/character-sheets/) |
 | :-- | :-- |
+
+#### Mythras Combat App
+
+The _Mythras_ Combat App is a helpful tool developed by Tim Evans for quickly choosing special effects in combat. Includes Special effects for Standard, Spirit, Mass, and Social Combat as well as options from _Destined_. The web version is free, but show Tim some love and buy the app version if you get some use out of it. If you are THE Tim Evans, contact me. (Adept_Austin on the [Discord server](https://dicord.gg/rDH4u7Wkwm))
+
+| Links | [Web](https://www.rpg-time.co.uk/MythrasEffects/#/) | [Google Play](https://play.google.com/store/apps/details?id=org.capacitor.quasar.mythraseffects&pcampaignid=web_share) |
+| :-- | :-- | :-- |
 
 ### Community
 
