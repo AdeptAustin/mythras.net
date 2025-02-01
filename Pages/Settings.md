@@ -262,6 +262,13 @@ Articles focused more on mechanics of sorcery in _Thennla_ by the writer himself
 | Links | [Sorcery](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/ASSABIAN_RITES_ARTICLES_-_PART_ONE.pdf) | [Alchemy](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/ASSABIAN_RITES_ARTICLES_PART_TWO.pdf) | [Enchantment](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/ASSABIAN_RITES_ARTICLES_-_PART_THREE_.pdf) | [Conjuring](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/ASSABIAN_RITES_ARTICLES_-_PART_FOUR_.pdf) |  [Incantations](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Incantations_discussion_document_WIP-1.pdf) | [Persuasion](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/ASSABIAN_RITES_ARTICLES_-_PERSUASION.pdf) | [History](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Assabian_Rites_-_some_author_notes_and_thoughts_on_Thennla.pdf) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 
+#### Misc. Articles
+
+Articles about Thennla's real-world inspirations, ideas for scenarios, campaigns, and other insperation, as well as more ideas about a mythic economy. Brought to you by the writer himself, Jonathan Drake as well as Stefan Matthias Hückel
+
+| Links | [Isnpirations](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Thennla_Real_World_References.pdf) | [Ideas](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Thennla_-_Scenarios,_Campaigns,_Inspirations.pdf) | [Mythic Economy](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/The_bread_line_article_updated.pdf) |
+| :-- | :-- | :-- | :-- |
+
 </details>
 
 ---
