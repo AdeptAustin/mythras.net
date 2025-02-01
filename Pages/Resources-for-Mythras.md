@@ -92,6 +92,11 @@ A useful reference for character creation; especially when using pen and paper.
 | Links | [TDM](https://thedesignmechanism.com/character-sheets/) |
 | :-- | :-- |
 
+#### Preview Classic Fantasy Character Sheets
+
+| Links | [Form Fillable](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Classic_Fantasy_Sheet_form_fillable_v2.0.pdf) | [Plain](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Classic_Fantasy_Sheet_plain_v1.7.pdf)
+| :-- | :-- | :-- |
+
 #### Mythras Combat App
 
 The _Mythras_ Combat App is a helpful tool developed by Tim Evans for quickly choosing special effects in combat. Includes Special effects for Standard, Spirit, Mass, and Social Combat as well as options from _Destined_. The web version is free, but show Tim some love and buy the app version if you get some use out of it. If you are THE Tim Evans, contact me. (Adept_Austin on the [Discord server](https://discord.gg/rDH4u7Wkwm))
