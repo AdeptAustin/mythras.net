@@ -46,6 +46,13 @@ Commonly referred to as the Forbidden Supplement, this can be a solid starting p
 | Links | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/StarWars.pdf">PDF<a/> | [Robert's](https://mythic-star-wars.imminentdoom.com/) |
 | :-- | :-- | :-- |
 
+#### Wanted Dead or Alive
+
+This homebrew adaptation brings the spirit of the Wild West to life. Play legendary tales of cowboys, outlaws, and untamed frontiers. Thanks to Raleel on the _Mythras_ Discord.
+
+| Links | [GDrive](https://docs.google.com/document/d/1Ryhj6wUSD4QQdpnpr3TTtek-4CfYEPQWBew9WTnU6rs/edit) | [PDF](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythras_Wanted_Dead_or_Alive.pdf) | 
+| :-- | :-- | :-- |
+
 ---
 ## Conversions
 
