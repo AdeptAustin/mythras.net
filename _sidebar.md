@@ -7,6 +7,7 @@
 - [Rulesets](Pages/Rulesets.md)
 - [Rules Supplements](Pages/Rules-Supplements.md)
 - [Adventure Supplements](Pages/Adventure-Supplements.md)
+- [Third Party](Pages/3rdParty.md)
 - [Homebrew](Pages/Homebrew.md)
 ---
 - [TDM Website](https://thedesignmechanism.com/)
