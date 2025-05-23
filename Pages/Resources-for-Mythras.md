@@ -125,7 +125,7 @@ A Google Sheet with fancy automation. Not sure who made it, but god bless. It's 
 
 A Google Sheet with fancy automation, but a more basic coat of paint. Just make a copy and go to town. Excel file linked below incase the sheet ever goes down.
 
-| Links | [GSheet](https://docs.google.com/spreadsheets/d/1oH6Q-Xj2Tr2yxkWvsWnM3QFVPZWxQHy1BVniN02MCRM/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/downliads/BASIC_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx">Excel<a/> |
+| Links | [GSheet](https://docs.google.com/spreadsheets/d/1oH6Q-Xj2Tr2yxkWvsWnM3QFVPZWxQHy1BVniN02MCRM/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/BASIC_Mythras_Autocalculating_Sheet_Updated_5-14-2024.xlsx">Excel<a/> |
 | :-- | :-- | :-- |
 
 #### Classic Fantasy Auto Calculating Character Sheet
