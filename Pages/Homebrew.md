@@ -43,7 +43,7 @@ Useful for those interesting in exploring the Northern Realms. An attempt was ma
 
 Commonly referred to as the Forbidden Supplement, this can be a solid starting point to adventuring in a galaxy far away. There's also Robert on Discord's Mythic Start Wars adapted from "The Forbidden Supplement"
 
-| Links | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/StarWars.pdf">PDF<a/> | [Robert's](https://mythic-star-wars.imminentdoom.com/) |
+| Links | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/StarWars.pdf">PDF<a/> | [MSW](https://mythic-star-wars.imminentdoom.com/) |
 | :-- | :-- | :-- |
 
 #### Wanted Dead or Alive
@@ -52,6 +52,43 @@ This homebrew adaptation brings the spirit of the Wild West to life. Play legend
 
 | Links | [GDrive](https://docs.google.com/document/d/1Ryhj6wUSD4QQdpnpr3TTtek-4CfYEPQWBew9WTnU6rs/edit) | [PDF](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythras_Wanted_Dead_or_Alive.pdf) | 
 | :-- | :-- | :-- |
+
+#### Casus Mus: Adventures of the Mouse
+
+Swords and whiskers! Loyal mouse comrades, devious rat brigands, deadly hawks, fearsome cats.
+
+The world of Casus Mus, Adventures of the Mouse, is d100 roleplaying the way it was meant to be: quick, fun, deadly, and most of all, whiskered.
+
+| Links | [LINK](https://casusmus.imminentdoom.com/) |
+| :-- | :-- |
+
+#### Divergent Earth: Parallel 34.21.12
+
+It is the early 20th Century, around 1910.
+
+The Southeastern part of North America is populated by what could be called Voodoo Vikings, who settled in the 12th century.
+
+The West sees an organized federation of First Nations people who protect their borders and their sovereignty, and who were given a leg up by ancient aliens.
+
+In the Northeast is this parallel's version of the United States, which maintains military advantage through alliances with other-dimensional beings and sentient parasitic fungi.
+
+Parallel1 34.21.12 is a homebrew setting for Mythras. It's a mashup of core Mythras, After the Vampire Wars (ATVW), Luther Arkwright (LA), Worlds United (WU), and some homebrew rules.
+
+| Links | [LINK](https://divergent-earth.imminentdoom.com/) |
+| :-- | :-- |
+
+#### Shadows and Echoes: Mythras in the worlds of the Insect Kinden and True People
+
+Shadows and Echoes (SAE) is a homebrew, unofficial, Mythras setting for fans of Adrian Tchaikovsky's worlds described in his series Shadows of the Apt and Echoes of the Fall.
+
+The kinden, from Shadows of the Apt, live on the eastern continent. The kinden's spiritual Ancestors are invertebrates: insects, arachnids, mollusks...
+
+The True People (or just the People), from Echoes of the Fall, live on the western continent. The True People's spiritual Ancestors are vertebrates: mammals, reptiles, birds...
+
+The current focus of SAE is the world of the kinden, the people of Shadows of the Apt.
+
+| Links | [LINK](https://shadowsandechoes.imminentdoom.com/) |
+| :-- | :-- |
 
 ---
 ## Conversions
