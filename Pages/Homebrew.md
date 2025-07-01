@@ -15,6 +15,12 @@ In this streamlined version of the combat rules, combat occurs within a single R
 | Links | [GDoc](https://docs.google.com/document/d/1ZiQ67dDCGsjxcgg-Sc3j_FizUDQIXLMAHjw6lycSXbA/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/MythWrack_5d.docx">Word<a/> |
 | :-- | :-- | :-- |
 
+#### Species of The 5e Coast
+
+A Dungeons & Dragons lineage to Mythras species conversion guide. Brought to you by Glömmerska on the _Mythras_ Discord.
+
+| Links | [GDoc](https://docs.google.com/document/d/1qsGmfPz2o0plVSIkdBf70GXtrTARxeNubprWx9uSSFI/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Species_of_the_5e_Coast.docx">Word<a/> |
+| :-- | :-- | :-- |
 
 ---
 ## Settings
