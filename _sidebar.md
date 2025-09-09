@@ -13,5 +13,5 @@
 - [TDM Website](https://thedesignmechanism.com/)
 - [TDM DTRPG](https://www.drivethrurpg.com/en/publisher/4057/design-mechanism)
 - [Unofficial Mythras Discord](https://discord.gg/mythras-469341944888164352)
-- [Fatman's Factotum - Mythras Tools!](https://factotum.mythras.net)
+- [Fatman's Factotum - Mythras Tools!](https://factotum.fatman.dev)
 - [Notes From Pavis, Hannu's Amazing tools!](https://notesfrompavis.blog/)
