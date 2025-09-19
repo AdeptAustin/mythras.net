@@ -96,6 +96,13 @@ The current focus of SAE is the world of the kinden, the people of Shadows of th
 | Links | [LINK](https://shadowsandechoes.imminentdoom.com/) |
 | :-- | :-- |
 
+#### DIADOCHI WARLORDS
+
+Epic Roleplaying Amid the Ruins of Alexander's Empire. By Chris Brann
+
+| Links | [WP](https://chrisbrann.files.wordpress.com/2021/03/diadochi-warloards-v5.6.pdf) | [PDF](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/diadochi-warloards-v5.6.pdf) | 
+| :-- | :-- | :-- |
+
 ---
 ## Conversions
 
