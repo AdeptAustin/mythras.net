@@ -8,7 +8,7 @@ Any good system has a community creating even more for it. _Mythras_  is no diff
 ---
 ## Aeon Games
 
-Aeon Games is dedicated to publishing affordable and innovative roleplaying games. They've _Perceforest_, a setting for high chivalry, as well as _Weird of Hali_, a game for playing in the world of H.P. Lovecraft with a twist.
+_Aeon Games_ is dedicated to publishing affordable and innovative roleplaying games. They've _Perceforest_, a setting for high chivalry, as well as _Weird of Hali_, a game for playing in the world of H.P. Lovecraft with a twist.
 
 | Links | [Web](https://games.aeonbooks.co.uk/) | [DTRPG](https://www.drivethrurpg.com/en/publisher/18296/aeon-games) |
 | :-- | :-- | :-- |
@@ -29,3 +29,10 @@ Run by Matthew Eager, _Old Bones Publishing_ has some exciting adventures as wel
 | Links | [DTRPG](https://www.drivethrurpg.com/en/publisher/10499/old-bones-publishing) |
 | :-- | :-- |
 
+---
+## Rudus Publishing
+
+Rudus, meaning rubble in Latin, is the name under which Rich LeDuc publishes _Rubble and Ruin_. Based on _Mythras Imperative_, R&R tries to capture the feel of old-school fantasy gaming in a science fiction, post-apocalyptic world where science and technology replace magic.
+
+| Links | [DTRPG](https://www.drivethrurpg.com/en/publisher/18532/rudus-publishing) |
+| :-- | :-- |
