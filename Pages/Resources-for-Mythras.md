@@ -82,6 +82,13 @@ A quick reference screen to make you GM like a pro. From Skills, Modifiers, Dama
 | Links | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/GM_Screen.png">PNG<a/> |
 | :-- | :-- |
 
+#### Skill Value vs Difficulty Grade Table
+
+An easy reference for when you don't want to do the math. Difficulty Grades from Very Easy to Herculean for skill values from 1 to 144. Please contact your physician for skills higher than 144. Includes Critical and Fumble ranges as well. From the venerable _Mythras_ superfan, Raleel, on the Discord
+
+| Links | [DropBox](https://www.dropbox.com/scl/fi/pn680jmly95qheq731tfa/Skill-Value-vs-Difficulty-Grade-Table-A4-Portrait-v5.pdf?rlkey=lc3vku8n847yxx8x0zz0uqmju&e=1&dl=0) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Skill_Value_vs_Difficulty_Grade_Table_A4_Portrait_v5.pdf">PDF<a/> |
+| :-- | :-- | :-- |
+
 ---
 ## Players
 
@@ -163,4 +170,11 @@ A sheet full of quick references from situational modifiers to falling damage. H
 A reference sheet for special effects organized by offensive/defensive use with shorthand descriptions. Once again, massive ups to Duke Herb on the Discord
 
 | Links | [GDrive](https://drive.google.com/file/d/1fG-piDQxn1dmAMFaeQ0kyDA2JRK39LNK/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Special_Effects.pdf">PDF<a/> |
+| :-- | :-- | :-- |
+
+#### Skill Value vs Difficulty Grade Table
+
+An easy reference for when you don't want to do the math. Difficulty Grades from Very Easy to Herculean for skill values from 1 to 144. Please contact your physician for skills higher than 144. Includes Critical and Fumble ranges as well. From the venerable _Mythras_ superfan, Raleel, on the Discord
+
+| Links | [DropBox](https://www.dropbox.com/scl/fi/pn680jmly95qheq731tfa/Skill-Value-vs-Difficulty-Grade-Table-A4-Portrait-v5.pdf?rlkey=lc3vku8n847yxx8x0zz0uqmju&e=1&dl=0) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Skill_Value_vs_Difficulty_Grade_Table_A4_Portrait_v5.pdf">PDF<a/> |
 | :-- | :-- | :-- |
