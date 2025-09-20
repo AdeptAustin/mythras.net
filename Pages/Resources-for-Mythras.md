@@ -77,7 +77,7 @@ A reference sheet for special effects organized by offensive/defensive use with 
 
 #### Digital GM Screen
 
-A quick reference screen to make you GM likea pro. From Skills, Modifiers, Damage, Movement, and even Fatigue, this screen's got you covered. All thanks to Suleiman on the Discord
+A quick reference screen to make you GM like a pro. From Skills, Modifiers, Damage, Movement, and even Fatigue, this screen's got you covered. All thanks to Suleiman on the Discord
 
 | Links | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/GM_Screen.png">PNG<a/> |
 | :-- | :-- |
