@@ -106,7 +106,7 @@ Epic Roleplaying Amid the Ruins of Alexander's Empire. By Chris Brann
 #### Mythic Japan
 
 Following my quest for a Homebrew “Mythic Japan” setting for _Mythras_, I translated the material from https://elruneblog.blogspot.com/ and completed it with other sources.
-It’s heavily based on the Legend supplement of _Mongoose publishing_ _Samurai of Legend_ -Kramalimedov
+It’s heavily based on the _Legend_ supplement of _Mongoose publishing_ _Samurai of Legend_ -Kramalimedov
 
 
 | Links | [GDrive](https://docs.google.com/document/d/1XlWwEMg2EIZ2AeSE4wK-lZoOOeuichyE2zxtNQqNpE4/edit?usp=sharing) | [PDF](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythic_Japan.pdf) | 
