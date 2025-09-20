@@ -7,7 +7,7 @@ _Mythras_  is a tabletop role-playing game system developed by _The Design Mecha
 
 For those new to the game, _Mythras_ is a percentile system. In _Mythras_ your characters are defined by their culture, career, community, background, comrades, skills, magic and cults. Progression is through skill advancement – not levels or similarly abstract concepts. As your characters adventure and quest, their capabilities improve and their relationships deepen and strengthen. Players and Games Masters have complete flexibility over what can be achieved, and the way characters develop is entirely dependent on choices players make, depending on their characters’ aspirations and motivations.
 
-Games Masters receive a huge amount of support through the Mythras rules. All the concepts and game mechanics are explained clearly with options and considerations explored and presented for ease of use. You need only this rulebook for many years of exciting and imaginative play.
+Games Masters receive a huge amount of support through the _Mythras_ rules. All the concepts and game mechanics are explained clearly with options and considerations explored and presented for ease of use. You need only this rulebook for many years of exciting and imaginative play.
 
 ---
 ## New to d100?

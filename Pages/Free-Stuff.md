@@ -5,7 +5,7 @@
 
 #### Mythras Imperative
 
-An 80 page ORC-licensed version of the core system, includes char-gen, combat, Folk Magic & Superpowers and vehicles. Don't think that this is just a cut down version of the rules. There's a lot in here that can be used to run Mythras in almost any setting. The community has helpfully placed the entire thing online for easy access.
+An 80 page ORC-licensed version of the core system, includes char-gen, combat, Folk Magic & Superpowers and vehicles. Don't think that this is just a cut down version of the rules. There's a lot in here that can be used to run _Mythras_ in almost any setting. The community has helpfully placed the entire thing online for easy access.
 
 | Links | [SRD](https://srd.mythras.net/) | [TDM](https://thedesignmechanism.com/mythras-imperative/) | [DTRPG](https://preview.drivethrurpg.com/en/product/185299/mythras-imperative) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/TDMORC002_Mythras_Imperative_071223.pdf) |
 | :-- | :-- | :-- | :-- | :-- |

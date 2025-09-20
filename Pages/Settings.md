@@ -8,7 +8,7 @@
 
 #### Shrine of the Traitor Gods
 
-A very short scenario designed to introduce those brand new to roleplaying to Mythras with a programmed adventure using simplified, pre-generated characters.
+A very short scenario designed to introduce those brand new to roleplaying to _Mythras_ with a programmed adventure using simplified, pre-generated characters.
 
 | Links | [TDM](https://thedesignmechanism.com/shrine-of-the-traitor-gods/) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Shrine_of_the_Traitor_Gods.zip) |
 | :-- | :-- | :-- |
@@ -46,7 +46,7 @@ Upriver from Meeros, Dianthe Kalos and her wealthy family controls the small cit
 
 But she is not the only one interested in The Cleansing: a vengeful goddess, a warband of panthotaurs seeking retirbution, and a sinster cult of shaman-assassins also want it. The race is on to uncover the mysteries of the Flooded Temple and secure this powerful magic item - or die trying...
 
-Xamoxis' Cleansing is a Mythras scenario for 4-6 characters who are competent in melee and magic.
+Xamoxis' Cleansing is a _Mythras_ scenario for 4-6 characters who are competent in melee and magic.
 
 | Links | [TDM](https://thedesignmechanism.com/xamoxis-cleansing-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/200719/xamoxis-cleansing) |
 | :-- | :-- | :-- |

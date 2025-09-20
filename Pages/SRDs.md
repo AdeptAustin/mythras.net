@@ -10,9 +10,9 @@ In the context of TTRPGs (Tabletop Role-Playing Games), an SRD (System Reference
 
 ### Mythras Imperative
 
-_Mythras Imperative_ is an Open, ORC Licensed, version of the Mythras ruleset. It offers a comprehensive, but not exhaustive, set of rules, including character creation, skills, rules for certain typical situations, combat, and magic – more than enough to get both players and Games Masters started, and form a solid basis for further development. _Mythras Imperative_ is compatible with the _Mythras_ core rules, and other ORC licensed percentile gaming systems. Its companion volume, _Classic Fantasy Imperative_, is also completely compatible and released under ORC, meaning that the two Imperatives can be easily combined.
+_Mythras Imperative_ is an Open, ORC Licensed, version of the _Mythras_ ruleset. It offers a comprehensive, but not exhaustive, set of rules, including character creation, skills, rules for certain typical situations, combat, and magic – more than enough to get both players and Games Masters started, and form a solid basis for further development. _Mythras Imperative_ is compatible with the _Mythras_ core rules, and other ORC licensed percentile gaming systems. Its companion volume, _Classic Fantasy Imperative_, is also completely compatible and released under ORC, meaning that the two Imperatives can be easily combined.
 
-An 80 page ORC-licensed version of the core system, includes char-gen, combat, Folk Magic & Superpowers and vehicles. Don't think that this is just a cut down version of the rules. There's a lot in here that can be used to run Mythras in almost any setting. The community has helpfully placed the entire thing online for easy access.
+An 80 page ORC-licensed version of the core system, includes char-gen, combat, Folk Magic & Superpowers and vehicles. Don't think that this is just a cut down version of the rules. There's a lot in here that can be used to run _Mythras_ in almost any setting. The community has helpfully placed the entire thing online for easy access.
 
 | Links | [SRD](https://srd.mythras.net/) | [TDM](https://thedesignmechanism.com/mythras-imperative/) | [DTRPG](https://preview.drivethrurpg.com/en/product/185299/mythras-imperative) |
 | :-- | :-- | :-- | :-- |

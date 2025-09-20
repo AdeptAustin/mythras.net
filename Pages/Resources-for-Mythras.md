@@ -9,7 +9,7 @@ These are resources that are not necessarily required for play, but we find them
 
 #### Mythras GM Screen
 
-The _Mythras_ GM Screen contains 16, 11x 8.5" cards featuring artwork and essential tables from the _Mythras_ core rules. Seven of the cards feature cover artwork from Mythras titles and are player-facing, while the remainder contain a variety of tables and charts.
+The _Mythras_ GM Screen contains 16, 11x 8.5" cards featuring artwork and essential tables from the _Mythras_ core rules. Seven of the cards feature cover artwork from _Mythras_ titles and are player-facing, while the remainder contain a variety of tables and charts.
 
 | Links | [TDM](https://thedesignmechanism.com/mythras-gm-screen/) | [DTRPG](https://www.drivethrurpg.com/en/product/254891/mythras-gm-screen) |
 | :-- | :-- | :-- |
@@ -122,7 +122,7 @@ The _Mythras_ Combat App is a helpful tool developed by Tim Evans for quickly ch
 
 #### Hannu's Starter Resources for Players
 
-"Here is a starter set of resources for a Mythras Player (not the GM). This is a subset of all resources available at NotesFromPavis blog plus additional cheatsheet by Duke Herb that I find useful" -Hannu
+"Here is a starter set of resources for a _Mythras_ Player (not the GM). This is a subset of all resources available at NotesFromPavis blog plus additional cheatsheet by Duke Herb that I find useful" -Hannu
 
 | Links | [NFP](https://notesfrompavis.blog/2024/07/22/starter-resources-summary-for-mythras-player/) |
 | :-- | :-- |

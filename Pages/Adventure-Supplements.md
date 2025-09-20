@@ -50,7 +50,7 @@ _Brace Yourself!_ is the third installment in the _Mythras_ Combat Module series
 
 #### White Death
 
-_White Death_ is a complete scenario for _Mythras Imperative_ and _Mythras_. Compatible with supplements such as _Luther Arkwright_, the adventure is a Science Fiction and Espionage thriller in the B movie style. A Soviet drift station in the Arctic ocean, seemingly abandoned. The Agency wants to know what the Russians were doing there and why it was so abruptly vacated. It has assembled a team to investigate; to uncover whatever it was the Soviet Union was using the station for. But what the agents find might not be what they were expecting. And what's more, the Russians are coming back... White Death also includes 6 pregenerated Agency personnel for immediate play, and rules for handling insanity in Mythras games.
+_White Death_ is a complete scenario for _Mythras Imperative_ and _Mythras_. Compatible with supplements such as _Luther Arkwright_, the adventure is a Science Fiction and Espionage thriller in the B movie style. A Soviet drift station in the Arctic ocean, seemingly abandoned. The Agency wants to know what the Russians were doing there and why it was so abruptly vacated. It has assembled a team to investigate; to uncover whatever it was the Soviet Union was using the station for. But what the agents find might not be what they were expecting. And what's more, the Russians are coming back... White Death also includes 6 pregenerated Agency personnel for immediate play, and rules for handling insanity in _Mythras_ games.
 
 | Links | [TDM](https://thedesignmechanism.com/white-death/) | [DTRPG](https://www.drivethrurpg.com/en/product/224002/white-death) |
 | :-- | :-- | :-- |
@@ -77,14 +77,14 @@ Upriver from Meeros, Dianthe Kalos and her wealthy family controls the small cit
 
 But she is not the only one interested in The Cleansing: a vengeful goddess, a warband of panthotaurs seeking retirbution, and a sinster cult of shaman-assassins also want it. The race is on to uncover the mysteries of the Flooded Temple and secure this powerful magic item - or die trying...
 
-Xamoxis' Cleansing is a Mythras scenario for 4-6 characters who are competent in melee and magic.
+Xamoxis' Cleansing is a _Mythras_ scenario for 4-6 characters who are competent in melee and magic.
 
 | Links | [TDM](https://thedesignmechanism.com/xamoxis-cleansing-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/200719/xamoxis-cleansing) |
 | :-- | :-- | :-- |
 
 #### Madness & Other Colours
 
-_Madness & Other Colours_ immerses characters in the perilous realm of an insane sorcerer and those who still revere him. As they delve into the mystery of the Sool Statuettes and their enigmatic creator, they’ll confront a myriad of horrors. This Mythras scenario caters to 4-6 competent and strong-willed characters
+_Madness & Other Colours_ immerses characters in the perilous realm of an insane sorcerer and those who still revere him. As they delve into the mystery of the Sool Statuettes and their enigmatic creator, they’ll confront a myriad of horrors. This _Mythras_ scenario caters to 4-6 competent and strong-willed characters
 
 | Links | [TDM](https://thedesignmechanism.com/madness-other-colours-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/203486/madness-other-colours) |
 | :-- | :-- | :-- |
@@ -170,7 +170,7 @@ When Trimostones the Gold, the most successful merchant of _Meeros_, assembles a
 
 #### Shrine of the Traitor Gods
 
-A very short scenario designed to introduce those brand new to roleplaying to Mythras with a programmed adventure using simplified, pre-generated characters.
+A very short scenario designed to introduce those brand new to roleplaying to _Mythras_ with a programmed adventure using simplified, pre-generated characters.
 
 | Links | [TDM](https://thedesignmechanism.com/shrine-of-the-traitor-gods/) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Shrine_of_the_Traitor_Gods.zip) |
 | :-- | :-- | :-- |

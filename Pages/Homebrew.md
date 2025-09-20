@@ -17,7 +17,7 @@ In this streamlined version of the combat rules, combat occurs within a single R
 
 #### Species of The 5e Coast
 
-A Dungeons & Dragons lineage to Mythras species conversion guide. Brought to you by Glömmerska on the _Mythras_ Discord.
+A Dungeons & Dragons lineage to _Mythras_ species conversion guide. Brought to you by Glömmerska on the _Mythras_ Discord.
 
 | Links | [GDoc](https://docs.google.com/document/d/1qsGmfPz2o0plVSIkdBf70GXtrTARxeNubprWx9uSSFI/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Species_of_the_5e_Coast.docx">Word<a/> |
 | :-- | :-- | :-- |
@@ -78,14 +78,14 @@ The West sees an organized federation of First Nations people who protect their 
 
 In the Northeast is this parallel's version of the United States, which maintains military advantage through alliances with other-dimensional beings and sentient parasitic fungi.
 
-Parallel1 34.21.12 is a homebrew setting for Mythras. It's a mashup of core Mythras, After the Vampire Wars (ATVW), Luther Arkwright (LA), Worlds United (WU), and some homebrew rules.
+Parallel1 34.21.12 is a homebrew setting for _Mythras_. It's a mashup of core _Mythras_, After the Vampire Wars (ATVW), Luther Arkwright (LA), Worlds United (WU), and some homebrew rules.
 
 | Links | [LINK](https://divergent-earth.imminentdoom.com/) |
 | :-- | :-- |
 
 #### Shadows and Echoes: Mythras in the worlds of the Insect Kinden and True People
 
-Shadows and Echoes (SAE) is a homebrew, unofficial, Mythras setting for fans of Adrian Tchaikovsky's worlds described in his series Shadows of the Apt and Echoes of the Fall.
+Shadows and Echoes (SAE) is a homebrew, unofficial, _Mythras_ setting for fans of Adrian Tchaikovsky's worlds described in his series Shadows of the Apt and Echoes of the Fall.
 
 The kinden, from Shadows of the Apt, live on the eastern continent. The kinden's spiritual Ancestors are invertebrates: insects, arachnids, mollusks...
 
@@ -103,12 +103,21 @@ Epic Roleplaying Amid the Ruins of Alexander's Empire. By Chris Brann
 | Links | [WP](https://chrisbrann.files.wordpress.com/2021/03/diadochi-warloards-v5.6.pdf) | [PDF](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/diadochi-warloards-v5.6.pdf) | 
 | :-- | :-- | :-- |
 
+#### Mythic Japan
+
+Following my quest for a Homebrew “Mythic Japan” setting for _Mythras_, I translated the material from https://elruneblog.blogspot.com/ and completed it with other sources.
+It’s heavily based on the Legend supplement of _Mongoose publishing_ _Samurai of Legend_ -Kramalimedov
+
+
+| Links | [GDrive](https://docs.google.com/document/d/1XlWwEMg2EIZ2AeSE4wK-lZoOOeuichyE2zxtNQqNpE4/edit?usp=sharing) | [PDF](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythic_Japan.pdf) | 
+| :-- | :-- | :-- |
+
 ---
 ## Conversions
 
 #### Warhammer 40k
 
-Mythras in the Grim Darkness of the 41st Millennium. This is a homebrew document for running a Warhammer 40,000 RPG in the Mythras system, mainly by converting appropriate Fantasy Flight Games / Cubicle 7 RPG content into Mythras. Special thanks to Vasillis on the _Mythras_ Discord.
+_Mythras_ in the Grim Darkness of the 41st Millennium. This is a homebrew document for running a Warhammer 40,000 RPG in the _Mythras_ system, mainly by converting appropriate Fantasy Flight Games / Cubicle 7 RPG content into _Mythras_. Special thanks to Vasillis on the _Mythras_ Discord.
 
 | Links | [GDoc](https://docs.google.com/document/d/1E9kTUZl0Y1ABF1CzTNbmu6QhHUmMbjw6bS0v0UCgslU/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythammer_40,000_Core.docx">Word<a/> | [Discord](https://discord.com/channels/469341944888164352/1230742960010690581) |
 | :-- | :-- | :-- | :-- |

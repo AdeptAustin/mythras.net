@@ -10,7 +10,7 @@ Learn more about the different rulesets [here](Pages/Rulesets.md)
 
 #### Mythras Imperative
 
-An 80 page ORC-licensed version of the core system, includes char-gen, combat, Folk Magic & Superpowers and vehicles. Don't think that this is just a cut down version of the rules. There's a lot in here that can be used to run Mythras in almost any setting. The community has helpfully placed the entire thing online for easy access.
+An 80 page ORC-licensed version of the core system, includes char-gen, combat, Folk Magic & Superpowers and vehicles. Don't think that this is just a cut down version of the rules. There's a lot in here that can be used to run _Mythras_ in almost any setting. The community has helpfully placed the entire thing online for easy access.
 
 | Links | [SRD](https://srd.mythras.net/) | [TDM](https://thedesignmechanism.com/mythras-imperative/) | [DTRPG](https://preview.drivethrurpg.com/en/product/185299/mythras-imperative) | [Direct](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/TDMORC002_Mythras_Imperative_071223.pdf) |
 | :-- | :-- | :-- | :-- | :-- |
@@ -54,7 +54,7 @@ Another adventure set in the _Meeros_ setting following the events in the Core R
 
 #### Now What?
 
-That's the end of the Unofficial Mythras Starter Set, but not the end of your adventures. If you're enjoying Meeros, it fits perfectly in the free setting _Thennla_ and there's two more (paid) adventures written for your consideration. _[Meeros Doomed](https://www.mythras.net/#/Pages/Settings?id=meeros-doomed)_ deals with the consequences of Kara's actions to save her sister. Use the same characters, or create new ones to fit the adventure. _[Xamoxis' Cleansing](https://www.mythras.net/#/Pages/Settings?id=xamoxis'-cleansing)_ Involves a wealthy ruler seeking adventurers to retrieve the fabled treasure known as The Cleansing. Either way, there's tons more of _Mythras_ to explore, experience, and create. Editor's Note: _[Mythic Britain](https://www.mythras.net/#/Pages/Settings?id=mythic-britain)_ is awesome.
+That's the end of the Unofficial _Mythras_ Starter Set, but not the end of your adventures. If you're enjoying Meeros, it fits perfectly in the free setting _Thennla_ and there's two more (paid) adventures written for your consideration. _[Meeros Doomed](https://www.mythras.net/#/Pages/Settings?id=meeros-doomed)_ deals with the consequences of Kara's actions to save her sister. Use the same characters, or create new ones to fit the adventure. _[Xamoxis' Cleansing](https://www.mythras.net/#/Pages/Settings?id=xamoxis'-cleansing)_ Involves a wealthy ruler seeking adventurers to retrieve the fabled treasure known as The Cleansing. Either way, there's tons more of _Mythras_ to explore, experience, and create. Editor's Note: _[Mythic Britain](https://www.mythras.net/#/Pages/Settings?id=mythic-britain)_ is awesome.
 
 ---
 ## Classic Fantasy
