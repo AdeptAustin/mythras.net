@@ -178,3 +178,10 @@ An easy reference for when you don't want to do the math. Difficulty Grades from
 
 | Links | [DropBox](https://www.dropbox.com/scl/fi/pn680jmly95qheq731tfa/Skill-Value-vs-Difficulty-Grade-Table-A4-Portrait-v5.pdf?rlkey=lc3vku8n847yxx8x0zz0uqmju&e=1&dl=0) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Skill_Value_vs_Difficulty_Grade_Table_A4_Portrait_v5.pdf">PDF<a/> |
 | :-- | :-- | :-- |
+
+#### Character Creators
+
+Step by step character creation wizards.
+
+| Links | [Tsinik](https://tsinwntas.github.io/mythras-tools/character-creation) | [BoiledMouse](https://boiledmouse.github.io/mythras-char-gen/)
+| :-- | :-- | :-- |
