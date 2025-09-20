@@ -75,6 +75,13 @@ A reference sheet for special effects organized by offensive/defensive use with 
 | Links | [GDrive](https://drive.google.com/file/d/1fG-piDQxn1dmAMFaeQ0kyDA2JRK39LNK/view?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Special_Effects.pdf">PDF<a/> |
 | :-- | :-- | :-- |
 
+#### Digital GM Screen
+
+A quick reference screen to make you GM likea pro. From Skills, Modifiers, Damage, Movement, and even Fatigue, this screen's got you covered. All thanks to Suleiman on the Discord
+
+| Links | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/GM_Screen.png">PNG<a/> |
+| :-- | :-- |
+
 ---
 ## Players
 
