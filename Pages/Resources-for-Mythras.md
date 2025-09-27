@@ -89,6 +89,13 @@ An easy reference for when you don't want to do the math. Difficulty Grades from
 | Links | [DropBox](https://www.dropbox.com/scl/fi/pn680jmly95qheq731tfa/Skill-Value-vs-Difficulty-Grade-Table-A4-Portrait-v5.pdf?rlkey=lc3vku8n847yxx8x0zz0uqmju&e=1&dl=0) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Skill_Value_vs_Difficulty_Grade_Table_A4_Portrait_v5.pdf">PDF<a/> |
 | :-- | :-- | :-- |
 
+#### Factotum
+
+A comprehesive dice roller (featuring automatic difficulty and damage bonus calculations and an up-to-500 roll history and much more) and a combat tracker (featuring up to 20 combats with 50 combatants per combat, status effect tracking, damage tracking, importing combatants from Mythras Encounter Generator, and lots more). 
+
+| Links | [Factotum](https://factotum.fatman.dev/) |
+| :-- | :-- |
+
 ---
 ## Players
 
