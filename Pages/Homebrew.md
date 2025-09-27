@@ -27,7 +27,7 @@ A Dungeons & Dragons lineage to _Mythras_ species conversion guide. Brought to y
 
 #### Elder Scrolls
 
-A document attempting to capture the feel of the middle 3 mainline games (Daggerfall, Morrowind, Oblivion) with some Skyrim thrown in there. while attempting to sidestep the bulk of the lore messiness. An attempt is made to follow and depict key facets of the lore and mechanics of the games. Huge thanks to Glömmerska and Alphaelectric on the _Mythras_ Discord. Th direct download for the PDF is provided in two parts because it is a B I G  B O I and Github was throwing a fit. Part 1 is the rules and part 2 is the bestiary
+A document attempting to capture the feel of the middle 3 mainline games (Daggerfall, Morrowind, Oblivion) with some Skyrim thrown in there. while attempting to sidestep the bulk of the lore messiness. An attempt is made to follow and depict key facets of the lore and mechanics of the games. Huge thanks to Glömmerska and Alphaelectric on the _Mythras_ Discord. The direct download for the PDF is provided in two parts because it is a B I G  B O I and Github was throwing a fit. Part 1 is the rules and part 2 is the bestiary
 
 | Links | [GDrive](https://drive.google.com/file/d/1z78Pki7CNFPNxpAowskFc21HfFFdSl9n/view) | [PDF 1of2](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythras_Elder_Scrolls_Conversion_v1-1of2.pdf) | [PDF 2of2](https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythras_Elder_Scrolls_Conversion_v1-2of2.pdf) |[Discord](https://discord.com/channels/469341944888164352/1221130075668484216) |
 | :-- | :-- | :-- | :-- | :-- |

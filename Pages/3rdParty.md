@@ -52,3 +52,11 @@ _Black Lodge Games_ is on a mission from God to bring high level immersion and a
 
 | Links | [DTRPG](https://www.drivethrurpg.com/en/publisher/28150/black-lodge-games) | [Cults of Zahak](https://www.drivethrurpg.com/en/product/518023/cults-of-zahak) |
 | :-- | :-- | :-- |
+
+---
+## Earl of Fife Games
+
+_Earl of Fife Games_ has released multiple adventures for _Mythras_ and _Classic Fantasy_.
+
+| Links | [DTRPG](https://www.drivethrurpg.com/en/publisher/14636/earl-of-fife-games/category/36934/mythras) |
+| :-- | :-- |
