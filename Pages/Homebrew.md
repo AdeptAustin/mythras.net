@@ -117,7 +117,7 @@ It’s heavily based on the _Legend_ supplement of _Mongoose publishing_ _Samura
 
 #### Warhammer 40k
 
-_Mythras_ in the Grim Darkness of the 41st Millennium. This is a homebrew document for running a Warhammer 40,000 RPG in the _Mythras_ system, mainly by converting appropriate Fantasy Flight Games / Cubicle 7 RPG content into _Mythras_. Special thanks to Vasillis on the _Mythras_ Discord.
+_Mythras_ in the Grim Darkness of the 41st Millennium. This is a homebrew document for running a Warhammer 40,000 RPG in the _Mythras_ system, mainly by converting appropriate Fantasy Flight Games / Cubicle 7 RPG content into _Mythras_. Special thanks to Vassilis on the _Mythras_ Discord.
 
 | Links | [GDoc](https://docs.google.com/document/d/1E9kTUZl0Y1ABF1CzTNbmu6QhHUmMbjw6bS0v0UCgslU/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Mythammer_40,000_Core.docx">Word<a/> | [Discord](https://discord.com/channels/469341944888164352/1230742960010690581) |
 | :-- | :-- | :-- | :-- |
