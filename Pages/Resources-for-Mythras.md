@@ -60,7 +60,7 @@ A useful reference for character creation; especially when using pen and paper.
 
 A Google Sheet with fancy automation. Not sure who made it, but god bless. It's radical. Just make a copy and go to town. Excel file linked below incase the sheet ever goes down.
 
-| Links | [GSheet](https://docs.google.com/spreadsheets/d/1Jq63xSupyvwZeH5nWtcViNrzLQd_L7Y3kj_9-uncxvQ/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/FANCY_Mythras_Autocalculating_Sheet_Updated_9-21-2024.xlsx">Excel<a/> |
+| Links | [GSheet](https://docs.google.com/spreadsheets/d/1tESla3ryC1l3K-Vx4x25hlE0CebApi0eg0PAoOYq7zQ/edit?usp=sharing) | <a href="https://github.com/AdeptAustin/mythras.net/raw/refs/heads/main/Downloads/Downloads/Mythras_Auto_Calculating_Sheet_V1.1.xlsx">Excel<a/> |
 | :-- | :-- | :-- |
 
 #### Basic Auto Calculating Character Sheet
