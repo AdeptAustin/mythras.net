@@ -7,10 +7,10 @@ These are resources that are not necessarily required for play, but we find them
 
 #### Character Creators
 
-Step by step character creation wizards.
+Step by step character creation wizards and one random generator.
 
-| Links | [Tsinik](https://tsinwntas.github.io/mythras-tools/character-creation) | [BoiledMouse](https://boiledmouse.github.io/mythras-char-gen/)
-| :-- | :-- | :-- |
+| Links | [Tsinik](https://tsinwntas.github.io/mythras-tools/character-creation) | [BoiledMouse](https://boiledmouse.github.io/mythras-char-gen/) | [Random](https://srd.mythras.net/core-char-gen.html)
+| :-- | :-- | :-- | :-- |
 
 #### Factotum
 
