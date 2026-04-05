@@ -193,6 +193,36 @@ _Gwynedd_ describes the clans, cabals, and coteries vying for Gwynedd’s throne
 | Links | [TDM](https://thedesignmechanism.com/mythic-britain-gwynedd-pdf/) | [DTRPG](https://www.drivethrurpg.com/en/product/432427/mythic-britain-gwynedd) |
 | :-- | :-- | :-- |
 
+#### The Tree of Eternal Life
+
+_The Tree of Eternal Life_ is a _Mythras_ scenario set on Monster Island designed for a single 3-4 hour session of fast paced play. Pregenerated characters are provided at the end for those for those not wishing to incorporate it in their own campaign.
+
+| Links | [TDM](https://thedesignmechanism.com/the-fenix-papers-pdf/) | [DTRPG] (https://www.drivethrurpg.com/en/product/239142/the-fenix-papers) |
+| :-- | :-- | :-- |
+
+#### Quest for the Akhos I'um
+
+In _Quest for the Akhos I'um_,  The players take the roles of an opportunistic gang of impoverished blackguards who
+have stumbled upon a yellowed map, a clue to the final resting place of Youzha Zei and his looted treasure. Of course each party member barely trusts the others not to backstab or betray him in order to claim what they seek, namely the priceless Akhos I’um. Pregenerated characters are provided.
+
+| Links | [TDM](https://thedesignmechanism.com/the-fenix-papers-pdf/) | [DTRPG] (https://www.drivethrurpg.com/en/product/239142/the-fenix-papers) |
+| :-- | :-- | :-- |
+
+#### Fear & Loathing in Mookinland
+
+_Fear & Loathing in Mookinland_  is a murder mystery, leading to a showdown with the killer. Inspired by the wonderful tales of Tove Jansson and the gonzo iconoclasm of Hunter S Thompson, it can be played as a Halloween themed one-off, or introduced into an established campaign by sending the player characters into a magic or narcotic driven dream world. 
+
+| Links | [TDM](https://thedesignmechanism.com/the-fenix-papers-pdf/) | [DTRPG] (https://www.drivethrurpg.com/en/product/239142/the-fenix-papers) |
+| :-- | :-- | :-- |
+
+#### The Hunt for Red December
+_The Hunt for Red December_ is set over a century ago in Sweden and shamelessly inspired by the Finnish horror-comedy movie “Rare Exports”. It is 1906. Christmas is coming and the goose is getting fat ... But not raised by the common folk of Sollerön, a remote community living under the shadow of Gesundaberg, in the hostile frozen wastes of Dalarna. Largely ignorant of the outside world, its very isolation has hidden dark secrets through the millennia, and now something sinister is stirring against its ancient imprisonment...
+
+Pregenerated characters are provided.
+
+| Links | [TDM](https://thedesignmechanism.com/the-fenix-papers-pdf/) | [DTRPG] (https://www.drivethrurpg.com/en/product/239142/the-fenix-papers) |
+| :-- | :-- | :-- |
+
 </details>
 
 ### Classic Fantasy
