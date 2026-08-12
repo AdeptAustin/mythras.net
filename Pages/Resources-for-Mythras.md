@@ -3,6 +3,22 @@
 These are resources that are not necessarily required for play, but we find them helpful and worth mentioning to enchance your _Mythras_ experience.
 
 ---
+## Media Resources
+
+#### Youtube
+
+Youtube Resources to help
+
+| Links | [Studio Curses](https://www.youtube.com/@StudioCursus/) | [Inwils](https://www.youtube.com/@inwils) 
+| :-- | :-- | :-- |
+
+#### Podcasts
+
+Podcasts that talk about Mythras
+
+| Links | [Mythras Matters](https://www.buzzsprout.com/266482) | [Opposed Roles](https://podbay.fm/p/opposed-roles)
+| :-- | :-- | :-- |
+
 ## Tools
 
 #### Character Creators
