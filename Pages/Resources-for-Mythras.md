@@ -9,7 +9,7 @@ These are resources that are not necessarily required for play, but we find them
 
 Youtube Resources to help
 
-| Links | [Studio Curses](https://www.youtube.com/@StudioCursus/) | [Inwils](https://www.youtube.com/@inwils) 
+| Links | [Studio Cursus](https://www.youtube.com/@StudioCursus/) | [Inwils](https://www.youtube.com/@inwils) 
 | :-- | :-- | :-- |
 
 #### Podcasts
